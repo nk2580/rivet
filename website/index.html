@@ -40,6 +40,7 @@
             <p class="hero-description">Keep your character, campaign notes, and rules together in a macOS app that saves everything on your Mac.</p>
             <div class="hero-actions"><a class="button primary" href="#install"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 3v12m-5-5 5 5 5-5M5 16v4h14v-4"/></svg>Get Rivet for macOS</a><a class="text-link" href="https://github.com/nk2580/rivet">Explore the source <span aria-hidden="true">↗</span></a></div>
             <p class="build-note">v0.1.1 · Build from source · No signed installer yet</p>
+            <a class="text-link demo-jump" href="#demo"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="m10 8 6 4-6 4Z" fill="currentColor" stroke="none"/></svg>Watch Torren at the table <span aria-hidden="true">↓</span></a>
           </div>
           <figure class="hero-preview">
             <div class="app-frame"><img src="./assets/character-sheet.jpg" width="1280" height="920" alt="Rivet showing Mara Ashford’s character sheet, hit points, armour class, prepared spells, and character navigation." fetchpriority="high"></div>
@@ -48,6 +49,34 @@
         </section>
         <div class="edition-line wrap"><p>For the edition your table plays.</p><ul aria-label="Supported rules editions"><li>5e <span>2014</span></li><li>5e <span>2024</span></li><li>3.5e</li></ul><a href="https://github.com/nk2580/rivet/blob/main/docs/rules-coverage.md">See rules coverage <span aria-hidden="true">↗</span></a></div>
     </div>
+
+    <section class="demo-section wrap" id="demo" aria-labelledby="demo-heading">
+      <div class="demo-copy">
+        <p class="eyebrow">See Rivet in play</p>
+        <h2 id="demo-heading">A turn at<br> the table.</h2>
+        <p id="demo-description">Follow Torren Stonehand through a short encounter: take a hit, check Guiding Bolt, spend a spell slot, recover HP, and save a campaign note.</p>
+        <p class="demo-duration">44 seconds · Silent, with on-screen captions</p>
+      </div>
+      <div class="demo-media">
+        <figure>
+          <video controls playsinline preload="none" poster="./assets/torren-demo-poster.jpg" width="1280" height="900" aria-label="Torren Stonehand gameplay demonstration" aria-describedby="demo-description demo-caption">
+            <source src="./assets/torren-gameplay.mp4" type="video/mp4">
+            <track kind="captions" src="./assets/torren-gameplay.vtt" srclang="en" label="English scene captions">
+            <p><a href="./assets/torren-gameplay.mp4">Download the Torren gameplay video</a>.</p>
+          </video>
+          <figcaption id="demo-caption">Recorded in Rivet. Simulated gameplay with dice and outcomes resolved at the table.</figcaption>
+        </figure>
+        <details class="demo-transcript"><summary>Read the demo walkthrough</summary><ol>
+          <li>Torren starts the encounter with 48 of 48 hit points.</li>
+          <li>Record 8 points of resolved damage. His sheet updates to 40 HP.</li>
+          <li>Look up Guiding Bolt in the local 5e 2024 SRD, without a ChatGPT connection.</li>
+          <li>After resolving the spell at the table, mark one first-level spell slot used. Three of four remain.</li>
+          <li>Record 6 points of healing. Torren returns to 46 HP.</li>
+          <li>Save “Bridge secured” in the campaign journal: the last wagon reached Greyhaven before nightfall.</li>
+          <li>Return to the character sheet, with the updated HP, spell slot, and note saved locally.</li>
+        </ol></details>
+      </div>
+    </section>
 
     <section class="features-section" id="features" aria-labelledby="features-heading">
       <div class="wrap">
