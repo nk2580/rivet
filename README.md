@@ -30,6 +30,7 @@ The first build downloads checksum-pinned native speech dependencies. The app bu
 - **A campaign notebook** linking sessions, people, places, quests, facts, and rulings. Choose which notes may be included for the guide.
 - **Offline SRD search** across bundled rules, spells, equipment, and character options, with edition filters and source references.
 - **Local storage** in SQLite, multiple windows, workspace JSON import/export, and recoverable record archiving.
+- **Appearance** with six main colours and light/dark modes. The running Dock icon and favicon follow your saved choice, with a little space around the compass mark.
 - **Optional Oracle chats** through your eligible ChatGPT account. Local MCP tools search rules and access character context. Routine requested sheet changes save with Undo receipts; other changes require review.
 - **Optional session capture** with on-device English speech recognition after a model download. Audio is discarded. ChatGPT can turn transcript text and corrections into editable recaps.
 

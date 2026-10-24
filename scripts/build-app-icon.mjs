@@ -12,7 +12,9 @@ const iconset=resolve('.local/Rivet.iconset'),output=resolve('desktop/assets/Riv
 const raster=resolve('.local/icon-raster'),cache=resolve('.local/icon-module-cache');
 
 // Derive every variant from the real CSS tokens, including each colour's light
-// and dark chroma. Keep the tile full-size; inset only the compass by one unit.
+// and dark chroma. Match Finder/Brave's 824px tile on a 1024px canvas, with
+// 100px transparent margins. Preserve the compass proportions within the tile.
+const tileScale=824/1024,tileInset=(24-24*tileScale)/2;
 const css=await readFile('src/styles.css','utf8'),appearance=await readFile('src/app/appearance.css','utf8');
 const variables=block=>Object.fromEntries([...block.matchAll(/(--[\w-]+):([^;{}]+)/g)].map(match=>[match[1],match[2].trim()]));
 const block=(text,pattern)=>{const match=text.match(pattern);if(!match)throw new Error('Missing app theme block.');return variables(match[1]);};
@@ -33,8 +35,8 @@ const colour=(value,tokens)=>{
   return '#'+rgb.map(channel=>Math.round(255*Math.max(0,Math.min(1,channel<=.0031308?12.92*channel:1.055*channel**(1/2.4)-.055)))).map(channel=>channel.toString(16).padStart(2,'0')).join('');
 };
 const iconSvg=(background,foreground)=>renderToStaticMarkup(createElement(Compass,{width:1024,height:1024,color:foreground}))
-  .replace(/(<svg[^>]*>)/,`$1<rect width="24" height="24" rx="5.25" fill="${background}" stroke="none"/><g transform="translate(1 1) scale(0.9166666667)">`)
-  .replace('</svg>','</g></svg>');
+  .replace(/(<svg[^>]*>)/,`$1<g transform="translate(${tileInset} ${tileInset}) scale(${tileScale})"><rect width="24" height="24" rx="5.25" fill="${background}" stroke="none"/><g transform="translate(3 3) scale(0.75)">`)
+  .replace('</svg>','</g></g></svg>');
 await mkdir(assets,{recursive:true});await mkdir(raster,{recursive:true});await mkdir(cache,{recursive:true});
 const variantAssets=resolve(assets,'icons'),webVariants=resolve('public/app-icons');
 await mkdir(variantAssets,{recursive:true});await mkdir(webVariants,{recursive:true});
@@ -64,4 +66,4 @@ for(const filename of ['rivet-icon.png','rivet-icon-1024.png'])await copyFile(`$
 await copyFile(resolve(assets,'rivet-icon.svg'),resolve('public/icon.svg'));
 for(const size of [192,512])await copyFile(`${raster}/icon-${size}.png`,resolve(`public/icon-${size}.png`));
 await run('/usr/bin/iconutil',['-c','icns',iconset,'-o',output]);
-console.log(`${output}\nBuilt 12 light/dark UI variants; full-size tile with an inset compass.`);
+console.log(`${output}\nBuilt 12 light/dark UI variants; 824px macOS tile with 100px transparent margins.`);
