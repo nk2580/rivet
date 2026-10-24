@@ -1,0 +1,30 @@
+name: Bug report
+description: Report a reproducible problem in Rivet
+body:
+  - type: markdown
+    attributes:
+      value: Please use a sample character and redact personal data. Never attach your real workspace, tokens, or chat transcripts. Sensitive vulnerabilities belong in private security reports.
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: What did you do, and what happened?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Version and environment
+      description: Rivet commit/version, macOS version, Apple Silicon or Intel, and Node/pnpm versions if building.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots or redacted logs

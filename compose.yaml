@@ -1,0 +1,24 @@
+name: rivet
+services:
+  api:
+    build: ./server
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      PORT: "8080"
+      RIVET_AUTH_MODE: ${RIVET_AUTH_MODE:-connected}
+      RIVET_APP_ORIGINS: ${RIVET_APP_ORIGINS:-http://localhost:8088,http://127.0.0.1:8088,http://localhost:5173,http://127.0.0.1:5173}
+    ports:
+      - "127.0.0.1:${RIVET_API_PORT:-8080}:8080"
+    restart: unless-stopped
+  web:
+    build:
+      context: .
+      target: web
+    ports:
+      - "${RIVET_WEB_BIND:-127.0.0.1}:${RIVET_WEB_PORT:-8088}:80"
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped

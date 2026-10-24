@@ -1,0 +1,28 @@
+/* Keep the default crimson identity; alternate accents share accessible theme levels. */
+:root[data-main-colour]{
+  --brand-hue:22;--brand-dark-hue:25;--brand-chroma:.14;--brand-dark-chroma:.135;
+  --primary:oklch(.39 var(--brand-chroma) var(--brand-hue));
+  --primary-foreground:oklch(.985 .004 78);
+  --accent:oklch(.947 .022 var(--brand-hue));
+  --ring:oklch(.49 var(--brand-chroma) var(--brand-hue));
+}
+:root[data-main-colour='crimson']{--accent:oklch(.947 .022 20);--ring:oklch(.49 .15 22)}
+:root[data-main-colour='amber']{--brand-hue:70;--brand-dark-hue:70;--brand-chroma:.08;--brand-dark-chroma:.12}
+:root[data-main-colour='forest']{--brand-hue:152;--brand-dark-hue:152;--brand-chroma:.09;--brand-dark-chroma:.11}
+:root[data-main-colour='teal']{--brand-hue:190;--brand-dark-hue:190;--brand-chroma:.065;--brand-dark-chroma:.10}
+:root[data-main-colour='sapphire']{--brand-hue:255;--brand-dark-hue:255;--brand-chroma:.13;--brand-dark-chroma:.135}
+:root[data-main-colour='violet']{--brand-hue:300;--brand-dark-hue:300;--brand-chroma:.13;--brand-dark-chroma:.13}
+:root.dark[data-main-colour]{
+  --primary:oklch(.72 var(--brand-dark-chroma) var(--brand-dark-hue));
+  --primary-foreground:oklch(.17 .008 var(--brand-dark-hue));
+  --accent:oklch(.3 .033 var(--brand-dark-hue));
+  --ring:oklch(.76 var(--brand-dark-chroma) var(--brand-dark-hue));
+}
+.colour-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;border:0;padding:0;margin:0;min-width:0}
+.colour-option{position:relative;display:flex;align-items:center;gap:10px;min-height:48px;padding:10px 12px;border:1px solid var(--border);border-radius:8px;font-size:.875rem;cursor:pointer}
+.colour-option:hover{background:var(--muted)}
+.colour-option:has(input:checked){border-color:var(--primary);background:var(--accent);font-weight:650}
+.colour-option:has(input:focus-visible){outline:3px solid var(--ring);outline-offset:3px}
+.colour-option input{position:absolute;inset:0;width:100%;height:100%;margin:0;opacity:0;cursor:pointer}
+.colour-swatch{display:grid;place-items:center;width:24px;height:24px;flex-shrink:0;border-radius:50%;background:var(--swatch);color:oklch(.985 .004 78)}
+@media(min-width:480px){.colour-options{grid-template-columns:repeat(3,minmax(0,1fr))}}

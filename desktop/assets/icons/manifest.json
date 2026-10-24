@@ -1,0 +1,86 @@
+[
+  {
+    "mainColour": "crimson",
+    "theme": "light",
+    "background": "#fefdfb",
+    "foreground": "#7f1520",
+    "file": "crimson-light.png"
+  },
+  {
+    "mainColour": "crimson",
+    "theme": "dark",
+    "background": "#1f1917",
+    "foreground": "#ed8079",
+    "file": "crimson-dark.png"
+  },
+  {
+    "mainColour": "amber",
+    "theme": "light",
+    "background": "#fefdfb",
+    "foreground": "#603c07",
+    "file": "amber-light.png"
+  },
+  {
+    "mainColour": "amber",
+    "theme": "dark",
+    "background": "#1f1917",
+    "foreground": "#d49648",
+    "file": "amber-dark.png"
+  },
+  {
+    "mainColour": "forest",
+    "theme": "light",
+    "background": "#fefdfb",
+    "foreground": "#14522c",
+    "file": "forest-light.png"
+  },
+  {
+    "mainColour": "forest",
+    "theme": "dark",
+    "background": "#1f1917",
+    "foreground": "#6cb882",
+    "file": "forest-dark.png"
+  },
+  {
+    "mainColour": "teal",
+    "theme": "light",
+    "background": "#fefdfb",
+    "foreground": "#06504d",
+    "file": "teal-light.png"
+  },
+  {
+    "mainColour": "teal",
+    "theme": "dark",
+    "background": "#1f1917",
+    "foreground": "#4ab9b2",
+    "file": "teal-dark.png"
+  },
+  {
+    "mainColour": "sapphire",
+    "theme": "light",
+    "background": "#fefdfb",
+    "foreground": "#004388",
+    "file": "sapphire-light.png"
+  },
+  {
+    "mainColour": "sapphire",
+    "theme": "dark",
+    "background": "#1f1917",
+    "foreground": "#67a7f7",
+    "file": "sapphire-dark.png"
+  },
+  {
+    "mainColour": "violet",
+    "theme": "light",
+    "background": "#fefdfb",
+    "foreground": "#512f7f",
+    "file": "violet-light.png"
+  },
+  {
+    "mainColour": "violet",
+    "theme": "dark",
+    "background": "#1f1917",
+    "foreground": "#b191ea",
+    "file": "violet-dark.png"
+  }
+]

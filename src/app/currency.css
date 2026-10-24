@@ -1,0 +1,10 @@
+.currency-purse{padding:24px 0;border-bottom:1px solid var(--border);margin-bottom:24px}
+.currency-purse>.section-heading{margin-bottom:16px;gap:12px;flex-wrap:wrap}
+.currency-balances,.currency-fields{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,112px),1fr));gap:16px 24px}
+.currency-balances dt{font-size:.8125rem;color:var(--muted-foreground)}
+.currency-balances dt span{font-size:.6875rem;margin-left:4px}
+.currency-balances dd{font-size:1.25rem;font-weight:600;margin:4px 0 0;font-variant-numeric:tabular-nums;overflow-wrap:anywhere}
+.currency-fields{border:0;padding:0;margin:16px 0}
+.currency-fields .field{margin:0;min-width:0}
+.currency-fields input{width:100%;min-width:0;font-variant-numeric:tabular-nums}
+.currency-purse .notice{margin-bottom:16px}

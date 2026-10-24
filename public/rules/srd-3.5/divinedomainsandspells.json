@@ -1,0 +1,1338 @@
+{
+  "schemaVersion": 1,
+  "edition": "3.5e",
+  "version": "SRD-3.5",
+  "id": "divinedomainsandspells",
+  "title": "DOMAINS AND SPELLS",
+  "document": "DivineDomainsandSpells.rtf",
+  "sourceUrl": "https://web.archive.org/web/20160328013113id_/http://www.wizards.com/d20/files/v35/SRD.zip",
+  "sourceSha256": "d2ad1c2e0414cae8dd0e6eb24211ea2f8905e34386ff620f951003067f205461",
+  "license": "OGL-1.0a",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a."
+    },
+    {
+      "type": "paragraph",
+      "text": "DOMAINS AND SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "ARTIFICE DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Gain +4 bonus on Craft checks. The character casts conjuration (creation) spells at +1 caster level. (Those with access to both the Artifice and Creation domains cast conjuration [creation] spells at +3 caster level.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Artifice Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Animate rope"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Wood shape"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Stone shape"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Minor creation"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Fabricate"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Major creation"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Hardening"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 True creation"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Prismatic sphere"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHARM DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: The character can boost his or her Charisma by 4 points once per day. Activating this power is a free action. The Charisma increase lasts 1 minute."
+    },
+    {
+      "type": "paragraph",
+      "text": "Charm Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Charm person"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Calm emotions"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Suggestion"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Emotion"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Charm monster"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Geas/quest"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Insanity"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Demand"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Dominate monster"
+    },
+    {
+      "type": "paragraph",
+      "text": "COMMUNITY DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Use calm emotions as a spell-like ability once per day. Gain a +2 competence bonus on Diplomacy checks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Community Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Bless"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Shield other"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Prayer"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Status"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Telepathic bond"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Heroes’ feast"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Refuge"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Mass heal"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Miracle"
+    },
+    {
+      "type": "paragraph",
+      "text": "CREATION DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Cast conjuration (creation) spells at +2 caster level. (Those with access to both the Artifice and Creation domains cast conjuration (creation) spells at +3 caster level.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Creation Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Create water"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Minor image"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Create food and water"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Minor creation"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Major creation"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Heroes’ feast"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Permanent image"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 True creation"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Genesis"
+    },
+    {
+      "type": "paragraph",
+      "text": "DARKNESS DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Free Blind-Fight feat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darkness Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Obscuring mist"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Blindness"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Blacklight"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Armor of darkness"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Summon monster V (only summons 1d3 shadows)"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Prying eyes"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Nightmare"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Power word, blind"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Power word, kill"
+    },
+    {
+      "type": "paragraph",
+      "text": "GLORY DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Turn undead with a +2 bonus on the turning check and +1d6 to the turning damage roll."
+    },
+    {
+      "type": "paragraph",
+      "text": "Glory Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Disrupt undead"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Bless weapon"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Searing light"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Holy smite"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Holy sword"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Bolt of glory"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Sunbeam"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Crown of glory"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Gate"
+    },
+    {
+      "type": "paragraph",
+      "text": "LIBERATION DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: The character gains a +2 morale bonus on all saving throws against enchantment spells or effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Liberation Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Remove fear"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Remove paralysis"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Remove curse"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Freedom of movement"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Break enchantment"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Greater dispelling"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Refuge"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Mind blank"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Unbinding"
+    },
+    {
+      "type": "paragraph",
+      "text": "MADNESS DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: The character gains an Insanity score equal to half his or her class level. For spellcasting (determining bonus spells and DCs), the character uses his or her Wisdom score plus his or her Insanity score in place of Wisdom alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "For all other purposes, such as skills and saves, use Wisdom minus Insanity in place of Wisdom."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once per day, the character can see and act with the clarity of true madness. Use the character’s Insanity score as a positive rather than a negative modifier on a single roll involving Wisdom. Choose to use this power before the roll is made."
+    },
+    {
+      "type": "paragraph",
+      "text": "Madness Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Random action"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Touch of madness"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Rage"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Confusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Bolts of bedevilment"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Phantasmal killer"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Insanity"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Maddening scream"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Weird"
+    },
+    {
+      "type": "paragraph",
+      "text": "NOBILITY DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: The character has the spell-like ability to inspire allies, giving them a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls. Allies must be able to hear the character speak for 1 round. Using this ability is a standard action. It lasts a number of rounds equal to the character’s Charisma bonus and can be used once per day."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nobility Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Divine favor"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Enthrall"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Magic vestment"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Discern lies"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Greater command"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Geas/quest"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Repulsion"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Demand"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Storm of vengeance"
+    },
+    {
+      "type": "paragraph",
+      "text": "REPOSE DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Repose domain is similar to the Death domain, but is granted by good-aligned deities whose clerics are barred from casting evil spells."
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: The character may use a death touch once per day. The death touch is a spell-like ability that is a death effect. The character must succeed at a melee touch attack against a living creature (using the rules for touch spells). When the character touches, roll 1d6 per his or her cleric level. If the total at least equals the creature’s current hit"
+    },
+    {
+      "type": "paragraph",
+      "text": "points, it dies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Repose Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Deathwatch"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Gentle repose"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Speak with dead"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Death ward"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Slay living"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Undeath to death"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Destruction"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Surelife"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Wail of the banshee"
+    },
+    {
+      "type": "paragraph",
+      "text": "RUNE DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Free Scribe Scroll feat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rune Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Erase"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Secret page"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Glyph of warding"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Explosive runes"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Lesser planar binding"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Greater glyph of warding"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Instant summons"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Symbol"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Teleportation circle"
+    },
+    {
+      "type": "paragraph",
+      "text": "SCALYKIND DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Rebuke or command animals (reptilian creatures and snakes only) as an evil cleric rebukes or commands undead."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use this ability a total number of times per day equal to 3 + Charisma modifier."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scalykind Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Magic fang"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Animal trance†"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Greater magic fang"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Poison"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Animal growth†"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Eyebite"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Creeping doom (composed of tiny snakes)"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Animal shapes†"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Shapechange"
+    },
+    {
+      "type": "paragraph",
+      "text": "†Affects ophidian or reptilian creatures only."
+    },
+    {
+      "type": "paragraph",
+      "text": "WEATHER DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Survival is a class skill."
+    },
+    {
+      "type": "paragraph",
+      "text": "Weather Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Obscuring mist"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Fog cloud"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Call lightning"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Sleet storm"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Ice storm"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Control winds"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Control weather"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Whirlwind"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Storm of vengeance"
+    },
+    {
+      "type": "paragraph",
+      "text": "NEW SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Armor Of Darkness"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abjuration [Darkness]"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Darkness 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S , D F"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 1 action"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Touch"
+    },
+    {
+      "type": "paragraph",
+      "text": "Target: Creature touched"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 10 minutes/level"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: Will negates (harmless)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Yes (harmless)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The spell envelops the warded creature in a shroud of shadows. The shroud can, if the caster desires, conceal the wearer’s features. In any case, it grants the recipient a +3 deflection bonus to Armor Class plus an additional +1 for every four caster levels (maximum bonus +8). The subject can see through the armor as if it did not exist and is also afforded darkvision with a range of 60 feet. Finally, the subject gains a +2 bonus on saving throws against any holy, good, or light spells or effects.Undead creatures that are subjects of armor of darkness also gain +4 turn resistance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Blacklight"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evocation [Darkness]"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Darkness 3, Sor/Wiz 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S , M"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 1 action"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Close (25 ft. + 5 ft./2 levels)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Area: A 20-ft.-radius emanation centered on a creature, object, or point in space"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 1 round/level (D)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: Will negates or none (object)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Yes or no (object)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The caster creates an area of total darkness. The darkness is impenetrable to normal vision and darkvision, but the caster can see normally within the blacklit area. Creatures outside the spell’s area, even the caster, cannot see through it."
+    },
+    {
+      "type": "paragraph",
+      "text": "The spell can be cast on a point in space, but the effect is stationary cast on a mobile object. A character can cast the spell on a creature, and the effect then radiates from the creature and moves as it moves. Unattended objects and points in space do not get saving throws or benefit from spell resistance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Blacklight counters or dispels any light spell of equal or lower level. The 3rd-level cleric spell daylight counters or dispels blacklight."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bolt Of Glory"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evocation [Good]"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Glory 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S , D F"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 1 action"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Close (25 ft. + 5 ft./level)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Effect: Ray"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: Instantaneous"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: None"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Yes"
+    },
+    {
+      "type": "paragraph",
+      "text": "This spell projects a bolt of energy from the Positive Energy Plane against one creature. The caster must succeed at a ranged touch attack to strike the target. A creature struck suffers varying damage, depending on its nature and home plane of existence:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Creature’s Origin/Nature",
+          "Damage",
+          "Maximum Value"
+        ],
+        [
+          "Material Plane, Elemental Plane, neutral outsider",
+          "1d6/2 levels",
+          "7d6"
+        ],
+        [
+          "Negative Energy Plane, evil outsider, undead creature",
+          "1d6/level",
+          "15d6"
+        ],
+        [
+          "Positive Energy Plane, good outsider",
+          "—",
+          "—"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bolts Of Bedevilment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enchantment [Mind-Affecting]"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Madness 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: One action"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Medium (100 ft. + 10 ft./level)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Effect: Ray"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 1 round/level"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: Will negates"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Yes"
+    },
+    {
+      "type": "paragraph",
+      "text": "This spell grants the caster the ability to make one ray attack per round. The ray dazes one living creature, clouding its mind so that it takes no action for 1d3 rounds. The creature is not stunned (so attackers get no special advantage against it), but it can’t move, cast spells, use mental abilities, and so on."
+    },
+    {
+      "type": "paragraph",
+      "text": "Crown Of Glory"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evocation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Glory 8"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S , M, D F"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 1 full round"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Personal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Area: 120-ft.-radius emanation centered on you"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 1 minute/level"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: Will negates"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Yes"
+    },
+    {
+      "type": "paragraph",
+      "text": "The caster is imbued with an aura of celestial authority, inspiring awe in all lesser creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "The caster gains a +4 enhancement bonus to his or her Charisma score for the duration of the spell. All creatures with fewer than 8 HD or levels cease whatever they are doing and are compelled to pay attention to the caster. Any such creature that wants to take hostile action against the caster must make a successful Will save to do so. Any creature that does not make this saving throw the first time it attempts a hostile action is enthralled for the duration of the spell (as the enthrall spell), as long as it is in the spell’s area, nor will it try to leave the area on its own. Creatures with 8 HD or more may pay attention to the caster, but are not affected by this spell."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the caster speaks, all listeners telepathically understand him or her, even if they do not understand the language. While the spell lasts, the caster can make up to three suggestions to creatures of fewer than 8 HD in range, as if using the mass suggestion spell (Will save negates); creatures with 8 HD or more aren’t affected by this power. Only creatures within range at the time a suggestion is given are subject to it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Material Component: worth at least 200 gp."
+    },
+    {
+      "type": "paragraph",
+      "text": "Genesis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conjuration (Creation)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Creation 9"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S , M, X P"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 1 week (8 hours/day)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: 180 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Effect: A demiplane on the Ethereal Plane centered on your location"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: Instantaneous"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: None"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: No"
+    },
+    {
+      "type": "paragraph",
+      "text": "This spell creates an immobile, finite plane with limited access—a demi-plane."
+    },
+    {
+      "type": "paragraph",
+      "text": "Demiplanes created by this power are very small, minor planes. A character can cast this spell only on the Ethereal Plane. When he or she casts it, a local density fluctuation precipitates the creation of a demiplane. At first, the demiplane grows at a rate of a 1-foot-radius per day to an initial maximum radius of 180 feet as the fledgling plane draws substance from surrounding ethereal vapors and protomatter or astral ectoplasm."
+    },
+    {
+      "type": "paragraph",
+      "text": "The character determines the environment in the demiplane when he or she first casts genesis, reflecting most any desire he or she can visualize. The caster determines factors such as atmosphere, water, temperature, and the shape of the general terrain. However, the spell cannot create life, nor can it create construction. If desired, these must be brought in by some other fashion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once the basic demiplane reaches its maximum size, the character can continue to cast this spell to enlarge the demiplane if he or she is inside the boundaries of the demiplane. In such a case, the radiusof the demiplane increases by 60 feet for each subsequent casting."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the spell is cast again while outside an existing demi-plane, the casting creates a separate bubble that does not touch or overlap any previously created demiplane."
+    },
+    {
+      "type": "paragraph",
+      "text": "XP Cost: 5,000 XP."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hardening"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transmutation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Sor/Wiz 6, Artifice 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 1 action"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Touch"
+    },
+    {
+      "type": "paragraph",
+      "text": "Target: One item of a volume no greater than 10 cu. ft./level"
+    },
+    {
+      "type": "paragraph",
+      "text": "(see text)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: Permanent"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: None"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Yes (object)"
+    },
+    {
+      "type": "paragraph",
+      "text": "This spell increases the hardness of materials. For every two caster levels, increase by 1 the hardness of the material targeted by the spell. This hardness increase improves only the material’s resistance to damage. Nothing else is modified by the improvement."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hardening spell does not in any way affect resistance to other forms of transformation."
+    },
+    {
+      "type": "paragraph",
+      "text": "This spell affects up to 10 cubic feet per level of the spellcaster."
+    },
+    {
+      "type": "paragraph",
+      "text": "If cast upon a metal or mineral, the volume is reduced to 1 cubic foot per level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maddening Scream"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enchantment (Compulsion) [Mind-Affecting]"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Sor/Wiz 8, Madness 8"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: One action"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Touch"
+    },
+    {
+      "type": "paragraph",
+      "text": "Target: Living creature touched"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 1d4+1 rounds"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: None"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Yes"
+    },
+    {
+      "type": "paragraph",
+      "text": "The subject cannot keep him or herself from behaving as though completely mad. This spell makes it impossible for the victim to do anything other than race about caterwauling."
+    },
+    {
+      "type": "paragraph",
+      "text": "The effect worsens the Armor Class of the creature by 4, makes Reflex saving throws impossible except on a roll of 20, and makes it impossible to use a shield."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rage"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enchantment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Madness 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: One action"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Touch"
+    },
+    {
+      "type": "paragraph",
+      "text": "Target: Creature touched"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 1 round/level"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: Will negates (harmless)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Yes (harmless)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The caster can put a creature into a blood frenzy. In this rage, the creature gains +4 to Strength, +4 to Constitution, and a +2 morale bonus on Will saves. (Unlike a barbarian rage, no penalty to AC is suffered, and no fatigue period occurs after the rage is over.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Surelife"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abjuration"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Repose 8"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S, M"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 1 round"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Personal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Target: You"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 1 minute/2 levels"
+    },
+    {
+      "type": "paragraph",
+      "text": "This spell allows the caster to protect him or herself against some condition that would ordinarily cause certain death. The character can only protect him or herself against a natural occurrence or condition, not against a spell or the action of a creature. The character must specify the condition against which he or she wishes to protect him or herself, and the spell is effective only against that condition. Should the character be subjected to that condition during the duration of the spell, he or she feels no discomfort and takes no damage from the condition. However, the spell does not protect any items carried on the caster’s person. At the end of the spell’s duration, the condition has full normal effects if the character is still subjected to it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Touch Of Madness"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enchantment [Mind-Affecting]"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Madness 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: One action"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Touch"
+    },
+    {
+      "type": "paragraph",
+      "text": "Target: Creature touched"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 1 round/level"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: Will negates"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Yes"
+    },
+    {
+      "type": "paragraph",
+      "text": "The caster may daze one living creature by making a successful touch attack. If the target creature does not make a successful Will save, its mind is clouded and it takes no action for 1 round per caster level. The dazed subject is not stunned (so attackers get no special advantage against it), but it can’t move, cast spells, use mental abilities, and so on."
+    },
+    {
+      "type": "paragraph",
+      "text": "True Creation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conjuration (Creation)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Creation 8"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S , M, X P"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 10 minutes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: 0 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Effect: Unattended, nonmagical object of nonliving matter, up to"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 cu. ft./level"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: Instantaneous"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: None"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: No"
+    },
+    {
+      "type": "paragraph",
+      "text": "The caster creates a nonmagical, unattended object of any sort of matter. Items created are permanent and cannot be negated by dispelling magics or negating powers. For all intents and purposes, these items are completely real. The volume of the item created cannot exceed 1 cubic foot per caster level. The caster must succeed at an appropriate skill check to make a complex item."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike the items brought into being by the lower-level spells minor creation and major creation, objects created by the casting of true creation can be used as material components."
+    },
+    {
+      "type": "paragraph",
+      "text": "XP Cost: The item’s gold piece value in XP, or a minimum of 1 XP, whichever is more."
+    },
+    {
+      "type": "paragraph",
+      "text": "Undeath To Death"
+    },
+    {
+      "type": "paragraph",
+      "text": "Necromancy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Sor/Wiz 6, Clr 6, Repose 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S , M, D F"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 1 action"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Medium (100 ft. + 10 ft./level)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Area: Several undead creatures within a 50-ft.-radius burst"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: Instantaneous"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: Will negates"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Yes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Undeath to death snuffs out the animating forces of undead creatures, killing them instantly. The spell slays 1d4 HD worth of undead creatures per caster level (maximum 20d4). Creatures with the fewest HD are affected first; among creatures with equal HD, those closest to the point of origin of the burst are affected first."
+    },
+    {
+      "type": "paragraph",
+      "text": "Material Component: worth at least 500 gp."
+    }
+  ]
+}

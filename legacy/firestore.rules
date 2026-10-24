@@ -1,0 +1,20 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /users/{userId}/sheets/{sheetId} {
+      function owner() { return request.auth != null && request.auth.uid == userId; }
+      function valid() {
+        let d = request.resource.data;
+        return sheetId == 'main'
+          && d.keys().hasOnly(['schemaVersion', 'payload', 'revision', 'updatedAt'])
+          && d.keys().hasAll(['schemaVersion', 'payload', 'revision', 'updatedAt'])
+          && d.schemaVersion == 1 && d.payload is string && d.payload.size() < 700000
+          && d.revision is int && d.revision > 0 && d.updatedAt == request.time;
+      }
+      allow read: if owner() && sheetId == 'main';
+      allow create: if owner() && valid() && request.resource.data.revision == 1;
+      allow update: if owner() && valid() && request.resource.data.revision == resource.data.revision + 1;
+      allow delete: if owner();
+    }
+  }
+}

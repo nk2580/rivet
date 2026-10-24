@@ -1,0 +1,6 @@
+node_modules/
+.firebase/
+.env
+.env.*
+*.log
+.openai/sites-runtime.json

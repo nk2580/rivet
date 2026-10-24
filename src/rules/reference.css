@@ -1,0 +1,16 @@
+.reference-table {max-width:100%;overflow-x:auto;margin:16px 0;border:1px solid var(--border);border-radius:8px}
+.reference-table table {border-collapse:collapse;min-width:100%;font-size:.8125rem;line-height:1.5}
+.reference-table th,.reference-table td {padding:10px 12px;text-align:left;vertical-align:top;border-bottom:1px solid var(--border);min-width:90px}
+.reference-table th {background:var(--secondary);font-weight:600}
+.reference-table tr:last-child td {border-bottom:0}
+.reference-base {margin-top:20px;padding:0 12px;border-left:2px solid var(--border)}
+.reference-base>summary {min-height:44px;cursor:pointer;font-weight:600;font-size:.875rem}
+.catalogue-entry {padding:16px 0;border-bottom:1px solid var(--border)}
+.catalogue-entry h3 {font-size:1rem;margin:0}
+.catalogue-entry .section-heading {align-items:flex-start;gap:12px}
+.catalogue-entry .section-heading>div {min-width:0}
+.equipment-calculations {margin:20px 0;padding:0 12px;border:1px solid var(--border);border-radius:8px;font-size:.8125rem}
+.equipment-calculations>summary {padding:12px 0;cursor:pointer;min-height:44px;font-weight:600}
+.calculation-terms {list-style:none;padding:0;margin:12px 0 20px}
+.calculation-terms li {display:flex;gap:12px;justify-content:space-between;padding:6px 0;border-bottom:1px solid var(--border)}
+.calculation-terms li>span:first-child {min-width:0}

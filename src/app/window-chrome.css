@@ -1,0 +1,16 @@
+:root[data-platform=darwin]{--window-top-inset:44px;--sheet-top-padding:24px;--sidebar-top-padding:12px;--inline-guide-padding:36px;--expanded-guide-top-padding:20px}
+:root[data-platform=darwin][data-window-fullscreen=true]{--window-top-inset:0px}
+.window-drag-region{position:fixed;inset:0 0 auto;height:var(--window-top-inset,0px);z-index:40;background:transparent;user-select:none;-webkit-app-region:drag;app-region:drag}
+/* Native controls need minimum clearance, not a second layer of page padding. */
+:root[data-platform=darwin] .main-content{padding-top:max(var(--sheet-top-padding),var(--window-top-inset))}
+:root[data-platform=darwin] .app-shell .sidebar{padding-top:max(var(--sidebar-top-padding),var(--window-top-inset))}
+:root[data-platform=darwin] .guide-panel:not(.expanded-panel){padding-top:max(var(--inline-guide-padding),var(--window-top-inset))}
+:root[data-platform=darwin] .guide-panel:not(.expanded-panel) .desktop-guide{height:calc(100dvh - max(var(--inline-guide-padding),var(--window-top-inset)) - var(--inline-guide-padding));top:max(20px,var(--window-top-inset))}
+:root[data-platform=darwin] .workspace-columns.guide-selected>.guide-panel.expanded-panel{padding-top:max(var(--expanded-guide-top-padding),var(--window-top-inset))}
+.dialog-overlay,.dialog-content,.dropdown-menu-content{-webkit-app-region:no-drag;app-region:no-drag}
+@media(min-width:1024px){
+  :root[data-platform=darwin]{--sheet-top-padding:40px;--sidebar-top-padding:28px;--expanded-guide-top-padding:24px}
+  :root[data-platform=darwin] .sidebar-collapsed .sidebar{--sidebar-top-padding:24px}
+}
+@media(min-width:1600px){:root[data-platform=darwin]{--sheet-top-padding:48px;--sidebar-top-padding:32px;--inline-guide-padding:40px}}
+@media(max-height:760px) and (max-width:1023px){:root[data-platform=darwin]{--expanded-guide-top-padding:8px}}

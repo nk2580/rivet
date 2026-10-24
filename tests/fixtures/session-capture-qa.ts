@@ -1,0 +1,20 @@
+import {mkdirSync,writeFileSync} from 'node:fs';
+import {join,resolve,sep} from 'node:path';
+import {SQLiteStore} from '../../desktop/sqlite';
+import {Workspace} from '../../src/storage/workspace';
+import {createCharacter} from '../../src/domain/character';
+import {recordBase,type Campaign,type Session} from '../../src/domain/schema';
+import {CaptureRuntime} from '../../desktop/capture';
+
+const directory=resolve(process.env.RIVET_CAPTURE_QA_DIR??'.local/session-capture-qa');
+if(!directory.startsWith(resolve('.local')+sep))throw new Error('Capture QA must use a project-local isolated directory.');
+mkdirSync(directory,{recursive:true});
+const store=new SQLiteStore(join(directory,'workspace.sqlite')),workspace=new Workspace(store.asWorkspaceStore(),'local',true);
+if((await workspace.list('character')).length)throw new Error('Use a new QA directory to preserve existing fixture evidence.');
+const character={...createCharacter('Thariel Moonwhisper of the Very Long Forgotten Northern Watch','5e-2024'),reviewed:true,species:'Elf'};
+const campaign:Campaign={...recordBase('The northern watch'),kind:'campaign',description:'Synthetic session-capture QA. No live credentials or microphone.',activeSessionId:null};character.campaignId=campaign.id;
+const session:Session={...recordBase('The old tower'),kind:'session',campaignId:campaign.id,date:'2026-10-24',characterIds:[character.id],summary:''};campaign.activeSessionId=session.id;
+await workspace.saveMany([{data:character,expectedRevision:0},{data:campaign,expectedRevision:0},{data:session,expectedRevision:0}]);
+const capture=new CaptureRuntime(store,workspace,{speech:{ready:()=>true,start:async()=>{},stop:async()=>{}},summarise:async()=>({group:'- The party discovered the old tower.\n- A guard offered help.',dm:'- Prepare the locked upper room.\n- Confirm the guard’s name.'}),changed:()=>{},notesChanged:()=>{},automatic:false});
+await capture.start(character.id,session.id);const runId=capture.status().run!.id;await capture.quickNote(runId,'The party discovered the old tower. The guard offered help.');await capture.summarise(runId);await capture.settled();await capture.pause(runId);
+writeFileSync(join(directory,'fixture.json'),JSON.stringify({characterId:character.id,sessionId:session.id,runId}));await capture.close();store.close();

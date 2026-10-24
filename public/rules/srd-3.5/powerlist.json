@@ -1,0 +1,1549 @@
+{
+  "schemaVersion": 1,
+  "edition": "3.5e",
+  "version": "SRD-3.5",
+  "id": "powerlist",
+  "title": "POWER LIST",
+  "document": "PowerList.rtf",
+  "sourceUrl": "https://web.archive.org/web/20160328013113id_/http://www.wizards.com/d20/files/v35/SRD.zip",
+  "sourceSha256": "a1a3e6f9b848f139021fb79884ae7e94f82648a1e3e56d2577b2d6c15621e5c1",
+  "license": "OGL-1.0a",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a."
+    },
+    {
+      "type": "paragraph",
+      "text": "POWER LIST"
+    },
+    {
+      "type": "paragraph",
+      "text": "An A appearing at the end of a power’s name in the power lists denotes an augmentable power. An X denotes a power with an XP component paid by the manifester."
+    },
+    {
+      "type": "paragraph",
+      "text": "Power Chains: Some powers reference other powers that they are based upon. Only information in a power later in the power chain that is different from the base power is covered in the power being described. Header entries and other information that are the same as the base power are not repeated. The same holds true for powers that are the equivalents of spells, only the way the power varies from the spell is noted, such as power point cost."
+    },
+    {
+      "type": "paragraph",
+      "text": "Order of Presentation: In the power lists and the power descriptions that follow them, the powers are presented in alphabetical order by name—except for those belonging to certain power chains and those that are psionic equivalents of spells. When a power’s name begins with “lesser,” “greater,” “mass,” or a similar kind of qualifier, the power description is alphabetized under the second word of the power description instead. When the effect of a power is essentially the same as that of a spell, the power’s name is simply “Psionic” followed by the name of the spell, and it is alphabetized according to the spell name."
+    },
+    {
+      "type": "paragraph",
+      "text": "Manifester Level: A power’s effect often depends on the manifester level, which is the manifester’s psionic class level. A creature with no classes has a manifester level equal to its Hit Dice unless otherwise specified. The word “level” in the power lists always refers to manifester level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Creatures and Characters: “Creatures” and “characters” are used synonymously in the power descriptions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Augment: Many powers vary in strength depending on how many power points you put into them. The more power points you spend, the more powerful the manifestation. However, you can spend only a total number of points on a power equal to your manifester level, unless you have an ability that increases your effective manifester level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Many powers can be augmented in more than one way. When the Augment section contains numbered paragraphs, you need to spend power points separately for each of the numbered options. When a paragraph in the Augment section begins with “In addition,” you gain the indicated benefit according to how many power points you have already decided to spend on manifesting the power."
+    },
+    {
+      "type": "paragraph",
+      "text": "PSION/WILDER POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "1ST-LEVEL PSION/WILDER POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Astral Traveler: Enable yourself or another to join an astral caravan-enabled trip."
+    },
+    {
+      "type": "paragraph",
+      "text": "AttractionA: Subject has an attraction you specify."
+    },
+    {
+      "type": "paragraph",
+      "text": "BoltA: You create a few enhanced short-lived bolts, arrows, or bullets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Call to Mind: Gain additional Knowledge check with +4 competence bonus."
+    },
+    {
+      "type": "paragraph",
+      "text": "CatfallA: Instantly save yourself from a fall."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conceal Thoughts: You conceal your motives."
+    },
+    {
+      "type": "paragraph",
+      "text": "Control FlamesA: Take control of nearby open flame."
+    },
+    {
+      "type": "paragraph",
+      "text": "Control Light: Adjust ambient light levels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Create Sound: Create the sound you desire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Crystal ShardA: Ranged touch attack for 1d6 points of piercing damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Daze, PsionicA: Humanoid creature of 4 HD or less loses next action."
+    },
+    {
+      "type": "paragraph",
+      "text": "DecelerationA: Target’s speed is halved."
+    },
+    {
+      "type": "paragraph",
+      "text": "Déjà VuA: Your target repeats his last action."
+    },
+    {
+      "type": "paragraph",
+      "text": "DemoralizeA: Enemies become shaken."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detect Psionics: You detect the presence of psionics."
+    },
+    {
+      "type": "paragraph",
+      "text": "DisableA: Subjects incorrectly believe they are disabled."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dissipating TouchA: Touch deals 1d6 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Distract: Target gets –4 bonus on Listen, Search, Sense Motive, and Spot checks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ecto ProtectionA: An astral construct gains bonus against dismiss ectoplasm."
+    },
+    {
+      "type": "paragraph",
+      "text": "EmpathyA: You know the subject’s surface emotions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Empty MindA: You gain +2 on Will saves until your next action."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy RayA: Deal 1d6 energy (cold, electricity, fire, or sonic) damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entangling Ectoplasm: You entangle a foe in sticky goo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Far HandA: Move small objects at a limited distance."
+    },
+    {
+      "type": "paragraph",
+      "text": "FloatA: You buoy yourself in water or other liquid."
+    },
+    {
+      "type": "paragraph",
+      "text": "Force ScreenA: Invisible disc provides +4 shield bonus to AC."
+    },
+    {
+      "type": "paragraph",
+      "text": "Grease, Psionic: Makes 10-ft. square or one object slippery."
+    },
+    {
+      "type": "paragraph",
+      "text": "HammerA: Melee touch attack deals 1d8/round."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inertial ArmorA: Tangible field of force provides you with +4 armor bonus to AC."
+    },
+    {
+      "type": "paragraph",
+      "text": "Know Direction and Location: You discover where you are and what direction you face."
+    },
+    {
+      "type": "paragraph",
+      "text": "Matter Agitation: You heat a creature or object."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mind ThrustA: Deal 1d10 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "MissiveA: Send a one-way telepathic message to subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "My LightA: Your eyes emit 20-ft. cone of light."
+    },
+    {
+      "type": "paragraph",
+      "text": "Precognition, DefensiveA: Gain +1 insight bonus to AC and saving throws."
+    },
+    {
+      "type": "paragraph",
+      "text": "Precognitionion, OffensiveA: Gain +1 insight bonus on your attack rolls."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prescience, OffensiveA: Gain +2 insight bonus on your damage rolls."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sense LinkA: You sense what the subject senses (single sense)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Skate: Subject slides skillfully along the ground."
+    },
+    {
+      "type": "paragraph",
+      "text": "Synesthete: You receive one kind of sense when another sense is stimulated."
+    },
+    {
+      "type": "paragraph",
+      "text": "Telempathic Projection: Alter the subject’s mood."
+    },
+    {
+      "type": "paragraph",
+      "text": "VigorA: Gain 5 temporary hit points."
+    },
+    {
+      "type": "paragraph",
+      "text": "2ND-LEVEL PSION/WILDER POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bestow PowerA: Subject receives 2 power points."
+    },
+    {
+      "type": "paragraph",
+      "text": "BiofeedbackA: Gain damage reduction 2/–."
+    },
+    {
+      "type": "paragraph",
+      "text": "Body Equilibrium: You can walk on nonsolid surfaces."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cloud Mind: You erase knowledge of your presence from target’s mind."
+    },
+    {
+      "type": "paragraph",
+      "text": "Concealing Amorpha: Quasi-real membrane grants you concealment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Concussion BlastA: Deal 1d6 force damage to target."
+    },
+    {
+      "type": "paragraph",
+      "text": "Control Sound: Create very specific sounds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detect Hostile Intent: You can detect hostile creatures within 30 ft. of you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ego WhipA: Deal 1d4 Cha damage and daze for 1 round."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elfsight: Gain low-light vision, +2 bonus on Search and Spot checks, and notice secret doors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy Adaptation, SpecifiedA: Gain resistance 10 against one energy type."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy PushA: Deal 2d6 damage and knock subject back."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy StunA: Deal 1d6 damage and stun target if it fails both saves."
+    },
+    {
+      "type": "paragraph",
+      "text": "Feat LeechA: Borrow another’s psionic or metapsionic feats."
+    },
+    {
+      "type": "paragraph",
+      "text": "Id InsinuationA: Swift tendrils of thought disrupt and confuse your target."
+    },
+    {
+      "type": "paragraph",
+      "text": "Identify, Psionic: Learn the properties of a psionic item."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inflict PainA: Telepathic stab gives your foe –4 on attack rolls, or –2 if he makes the save."
+    },
+    {
+      "type": "paragraph",
+      "text": "Knock, Psionic: Opens locked or psionically sealed door."
+    },
+    {
+      "type": "paragraph",
+      "text": "Levitate, Psionic: You move up and down, forward and back via mental support."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mental DisruptionA: Daze creatures within 10 feet for 1 round."
+    },
+    {
+      "type": "paragraph",
+      "text": "Missive, MassA: You send a one-way telepathic message to an area."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psionic Lock: Secure a door, chest, or portal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recall AgonyA: Foe takes 2d6 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sense Link, Forced: Sense what subject senses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Share Pain: Willing subject takes some of your damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sustenance: Go without food and water for one day."
+    },
+    {
+      "type": "paragraph",
+      "text": "Swarm of CrystalsA: Crystal shards are sprayed forth doing 3d4 slashing damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thought ShieldA: Gain PR 13 against mind-affecting powers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tongues, Psionic: You can communicate with intelligent creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "3RD-LEVEL PSION/WILDER POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Body AdjustmentA: You heal 1d12 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Body PurificationA: You restore 2 points of ability damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Danger SenseA: You gain +4 bonus against traps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darkvision, Psionic: See 60 ft. in total darkness."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dismiss Ectoplasm: Dissipates ectoplasmic targets and effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dispel PsionicsA: Cancels psionic powers and effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy BoltA: Deal 5d6 energy damage in 120-ft. line."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy BurstA: Deal 5d6 energy damage in 40-ft. burst."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy RetortA: Ectoburst of energy automatically targets your attacker for 4d6 damage once each round."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy Wall: Create wall of your chosen energy type."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eradicate InvisibilityA: Negate invisibility in 50-ft. burst."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keen Edge, Psionic: Doubles normal weapon’s threat range."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mental BarrierA: Gain +4 deflection bonus to AC until your next action."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mind TrapA: Drain 1d6 power points from anyone who attacks you with a telepathy power."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psionic Blast: Stun creatures in 30-ft. cone for 1 round."
+    },
+    {
+      "type": "paragraph",
+      "text": "Share Pain, ForcedA: Unwilling subject takes some of your damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Solicit PsicrystalA: Your psicrystal takes over your concentration power."
+    },
+    {
+      "type": "paragraph",
+      "text": "Telekinetic ForceA: Move an object with the sustained force of your mind."
+    },
+    {
+      "type": "paragraph",
+      "text": "Telekinetic ThrustA: Hurl objects with the force of your mind."
+    },
+    {
+      "type": "paragraph",
+      "text": "Time HopA: Subject hops forward in time 1 round/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "TouchsightA: Your telekinetic field tells you where everything is."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ubiquitous Vision: You have all-around vision."
+    },
+    {
+      "type": "paragraph",
+      "text": "4TH-LEVEL PSION/WILDER POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aura SightA: Reveals creatures, objects, powers, or spells of selected alignment axis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Correspond: Hold mental conversation with another creature at any distance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Death UrgeA: Implant a self-destructive compulsion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detect Remote Viewing: You know when others spy on you remotely."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dimension Door, Psionic: Teleports you short distance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Divination, Psionic: Provides useful advice for specific proposed action."
+    },
+    {
+      "type": "paragraph",
+      "text": "Empathic FeedbackA: When you are hit in melee, your attacker takes damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy AdaptationA: Your body converts energy to harmless light."
+    },
+    {
+      "type": "paragraph",
+      "text": "Freedom of Movement, Psionic: You cannot be held or otherwise rendered immobile."
+    },
+    {
+      "type": "paragraph",
+      "text": "Intellect FortressA: Those inside fortress take only half damage from all powers and psi-like abilities until your next action."
+    },
+    {
+      "type": "paragraph",
+      "text": "MindwipeA: Subject’s recent experiences wiped away, bestowing negative levels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Personality Parasite: Subject’s mind calves self-antagonistic splinter personality for 1 round/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Power Leech: Drain 1d6 power points/round while you maintain concentration; you gain 1/round."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psychic ReformationX: Subject can choose skills, feats, and powers anew for previous levels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Telekinetic ManeuverA: Telekinetically bull rush, disarm, grapple, or trip your target."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trace TeleportA: Learn destination of subject’s teleport."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall of Ectoplasm: You create a protective barrier."
+    },
+    {
+      "type": "paragraph",
+      "text": "5TH-LEVEL PSION/WILDER POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adapt Body: Your body automatically adapts to hostile environments."
+    },
+    {
+      "type": "paragraph",
+      "text": "CatapsiA: Psychic static inhibits power manifestation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ectoplasmic Shambler: Foglike predator deals 1 point of damage/two levels each round to an area."
+    },
+    {
+      "type": "paragraph",
+      "text": "IncarnateX: Make some powers permanent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Leech FieldA: Leech power points each time you make a saving throw."
+    },
+    {
+      "type": "paragraph",
+      "text": "Major Creation, Psionic: As psionic minor creation, plus stone and metal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Plane Shift, Psionic: Travel to other planes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Power Resistance: Grant PR equal to 12 + level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psychic CrushA: Brutally crush subject’s mental essence, reducing subject to –1 hit points."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shatter Mind Blank: Cancels target’s mind blank effect."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tower of Iron WillA: Grant PR 19 against mind-affecting powers to all creatures within 10 ft. until your next turn."
+    },
+    {
+      "type": "paragraph",
+      "text": "True Seeing, PsionicA: See all things as they really are."
+    },
+    {
+      "type": "paragraph",
+      "text": "6TH-LEVEL PSION/WILDER POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aura AlterationA: Repairs psyche or makes subject seem to be something it is not."
+    },
+    {
+      "type": "paragraph",
+      "text": "Breath of the Black DragonA: Breathe acid for 11d6 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cloud Mind, Mass: Erase knowledge of your presence from the minds of one creature/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contingency, PsionicX: Sets trigger condition for another power."
+    },
+    {
+      "type": "paragraph",
+      "text": "Co-opt Concentration: Take control of foe’s concentration power."
+    },
+    {
+      "type": "paragraph",
+      "text": "Disintegrate, PsionicA: Turn one creature or object to dust."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fuse FleshA: Fuse subject’s flesh, creating a helpless mass."
+    },
+    {
+      "type": "paragraph",
+      "text": "Overland Flight, Psionic: You fly at a speed of 40 ft. and can hustle over long distances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remote View Trap: Deal 8d6 points electricity damage to those who seek to view you at a distance."
+    },
+    {
+      "type": "paragraph",
+      "text": "RetrieveA: Teleport to your hand an item you can see."
+    },
+    {
+      "type": "paragraph",
+      "text": "Suspend Life: Put yourself in a state akin to suspended animation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temporal AccelerationA: Your time frame accelerates for 1 round."
+    },
+    {
+      "type": "paragraph",
+      "text": "7TH-LEVEL PSION/WILDER POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Decerebrate: Remove portion of subject’s brain stem."
+    },
+    {
+      "type": "paragraph",
+      "text": "Divert Teleport: Choose destination for another’s teleport."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy Conversion: Offensively channel energy you’ve absorbed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy WaveA: Deal 13d4 damage of your chosen energy type in 120-ft. cone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evade BurstA: You take no damage from a burst on a successful Reflex save."
+    },
+    {
+      "type": "paragraph",
+      "text": "InsanityA: Subject is permanently confused."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mind Blank, Personal: You are immune to scrying and mental effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Moment of Prescience, Psionic: You gain insight bonus on single attack roll, check, or save."
+    },
+    {
+      "type": "paragraph",
+      "text": "Oak BodyA: Your body becomes as hard as oak."
+    },
+    {
+      "type": "paragraph",
+      "text": "Phase Door, Psionic: Invisible passage through wood or stone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sequester, PsionicX: Subject invisible to sight and remote viewing; renders subject comatose."
+    },
+    {
+      "type": "paragraph",
+      "text": "UltrablastA: Deal 13d6 damage in 15-ft. radius."
+    },
+    {
+      "type": "paragraph",
+      "text": "8TH-LEVEL PSION/WILDER POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bend RealityX: Alters reality within power limits."
+    },
+    {
+      "type": "paragraph",
+      "text": "Iron Body, Psionic: Your body becomes living iron."
+    },
+    {
+      "type": "paragraph",
+      "text": "Matter ManipulationX: Increase or decrease an object’s base hardness by 5."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mind Blank, Psionic: Subject immune to mental/emotional effects, scrying, and remote viewing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recall Death: Subject dies or takes 5d6 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shadow Body: You become a living shadow (not the creature)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Teleport, Psionic Greater: As psionic teleport, but no range limit and no off-target arrival."
+    },
+    {
+      "type": "paragraph",
+      "text": "True Metabolism: You regenerate 10 hit points/round."
+    },
+    {
+      "type": "paragraph",
+      "text": "9TH-LEVEL PSION/WILDER POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Affinity Field: Effects that affect you also affect others."
+    },
+    {
+      "type": "paragraph",
+      "text": "ApopsiX: You delete target’s psionic powers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Assimilate: Incorporate creature into your own body."
+    },
+    {
+      "type": "paragraph",
+      "text": "Etherealness, Psionic: Become ethereal for 1 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "MicrocosmA: Creature or creature lives forevermore in world of his own imagination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reality RevisionX: As bend reality, but fewer limits."
+    },
+    {
+      "type": "paragraph",
+      "text": "Timeless Body: Ignore all harmful, and helpful, effects for 1 round."
+    },
+    {
+      "type": "paragraph",
+      "text": "PSION DISCIPLINE POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "EGOIST (PSYCHOMETABOLISM) DISCIPLINE POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Thicken SkinA: Gain +1 enhancement bonus to your AC for 10 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Animal AffinityA: Gain +4 enhancement to one ability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chameleon: Gain +10 enhancement bonus on Hide checks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Empathic TransferA: Transfer another’s wounds to yourself."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Ectoplasmic Form: You gain benefits of being insubstantial and can fly slowly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hustle: Instantly gain a move action."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Metamorphosis: Assume shape of creature or object."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psychic Vampire: Touch attack drains 2 power points/level from foe."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Psionic RevivifyA X. Return the dead to life before the psyche leaves the corpse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psychofeedback: Boost Strength, Dexterity, or Constitution at the expense of one or more other scores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Restore Extremity: Return a lost digit, limb, or other appendage to subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Restoration, Psionic: Restores level and ability score drains."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Fission: You briefly duplicate yourself."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 FusionX: You combine your abilities and form with another."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Metamorphosis, GreaterX: Assume shape of any nonunique creature or object each round."
+    },
+    {
+      "type": "paragraph",
+      "text": "KINETICIST (PSYCHOKINESIS) DISCIPLINE POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Control Object: Telekinetically animate a small object."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Control AirA: You have control over wind speed and direction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy MissileA: Deal 3d6 energy damage to up to five subjects."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Energy ConeA: Deal 5d6 energy damage in 60-ft. cone."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Control BodyA: Take rudimentary control of your foe’s limbs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy BallA: Deal 7d6 energy damage in 20-ft. radius."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inertial Barrier: Gain DR 5/–."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Energy CurrentA: Deal 9d6 damage to one foe and half to another foe as long as you concentrate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiery DiscorporationA: Cheat death by discorporating into nearby fire for one day."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Dispelling Buffer: Subject is buffered from one dispel psionics effect."
+    },
+    {
+      "type": "paragraph",
+      "text": "Null Psionics Field: Create a field where psionic power does not function."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Reddopsi: Powers targeting you rebound on manifester."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Telekinetic Sphere, Psionic: Mobile force globe encapsulates creature and moves it."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Tornado BlastA: Vortex of air subjects your foes to 17d6 damage and moves them."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOMAD (PSYCHOPORTATION) DISCIPLINE POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Burst: Gain +10 ft. to speed this round."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detect TeleportationA: Know when teleportation powers are used in close range."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Dimension SwapA: You and ally or two allies switch positions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Levitate, Psionic: Subject moves up and down, forward and back, at your direction."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Astral CaravanA: You lead astral traveler-enabled group to a planar destination."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Dimensional Anchor, Psionic: Bars extra dimensional movement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dismissal, Psionic: Forces a creature to return to its native plane."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fly, Psionic: You fly at a speed of 60 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Baleful TeleportA: Destructive teleport deals 9d6 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Teleport, Psionic: Instantly transports you as far as 100 miles/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Teleport Trigger: Predetermined event triggers teleport."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Banishment, PsionicA: Banishes extraplanar creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Dream TravelA: Travel to other places through dreams."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ethereal Jaunt, Psionic: Become ethereal for 1 round/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Time Hop, MassA: Willing subjects hop forward in time."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Teleportation Circle, Psionic: Circle teleports any creatures inside to designated spot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Time RegressionX: Relive the last round."
+    },
+    {
+      "type": "paragraph",
+      "text": "SEER (CLAIRSENTIENCE) DISCIPLINE POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Destiny Dissonance: Your dissonant touch sickens a foe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Precognition: Gain +2 insight bonus to one roll."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Clairvoyant Sense: See and hear a distant location."
+    },
+    {
+      "type": "paragraph",
+      "text": "Object ReadingA: Learn details about an object’s previous owner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sensitivity to Psychic Impressions: You can find out about an area’s past."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Escape Detection: You become difficult to detect with clairsentience powers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fate LinkA: You link the fates of two targets."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Anchored NavigationA: Establish a mishap-free teleport beacon."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remote ViewingX: See, hear, and potentially interact with subjects at a distance."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Clairtangent HandA: Emulate far hand at a distance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Second ChanceX: Gain a reroll."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Precognition, Greater: Gain +4 insight bonus to one roll."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Fate of One: Reroll any roll you just failed."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Hypercognition: You can deduce almost anything."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 MetafacultyX: You learn details about any one creature."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reality RevisionX: Break the laws of reality."
+    },
+    {
+      "type": "paragraph",
+      "text": "SHAPER (METACREATIVITY) DISCIPLINE POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Astral ConstructA: Creates astral construct to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Minor Creation, Psionic: Creates one cloth or wood object."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Psionic Repair Damage: Repairs construct of 3d8 hit points +1 hp/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Concealing Amorpha, Greater: Quasi-real membrane grants you total concealment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ectoplasmic CocoonA: You encapsulate a foe so it can’t move."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Fabricate, Psionic: Transforms raw goods to finished items."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quintessence: You collapse a bit of time into a physical substance."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Hail of CrystalsA: A crystal explodes in an area, dealing 9d4 slashing damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Crystallize: Turn subject permanently to crystal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fabricate, Greater Psionic: Transforms a lot of raw goods to finished items."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Ectoplasmic Cocoon, Mass: You encapsulate all foes in a 20-ft. radius."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Astral Seed: You plant the seed of your rebirth from the Astral Plane."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 GenesisX: You instigate a new demiplane on the Astral Plane."
+    },
+    {
+      "type": "paragraph",
+      "text": "True CreationX: As psionic major creation, except items are completely real."
+    },
+    {
+      "type": "paragraph",
+      "text": "TELEPATH (TELEPATHY) DISCIPLINE POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Charm, PsionicA: Makes one person your friend."
+    },
+    {
+      "type": "paragraph",
+      "text": "MindlinkA: You forge a limited mental bond with another creature."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 AversionA: Subject has aversion you specify."
+    },
+    {
+      "type": "paragraph",
+      "text": "Brain LockA: Subject cannot move or take any mental actions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Read Thoughts: Detect surface thoughts of creatures in range."
+    },
+    {
+      "type": "paragraph",
+      "text": "Suggestion, Psionic: Compels subject to follow stated course of action."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Crisis of BreathA: Disrupt subject’s breathing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Empathic Transfer, HostileA: Your touch transfers your hurt to another."
+    },
+    {
+      "type": "paragraph",
+      "text": "False Sensory InputA: Subject sees what isn’t there."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Dominate, PsionicA: Control target telepathically."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mindlink, ThievingA: Borrow knowledge of a subject’s power."
+    },
+    {
+      "type": "paragraph",
+      "text": "Modify Memory, Psionic: Changes 5 minutes of subject’s memories."
+    },
+    {
+      "type": "paragraph",
+      "text": "Schism: Your partitioned mind can manifest lower level powers."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 MetaconcertA: Mental concert of two or more increases the total power of the participants."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mind Probe: You discover the subject’s secret thoughts."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Mind SwitchA, X: You switch minds with another."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Crisis of LifeA: Stop subject’s heart."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Mind SeedX: Subject slowly becomes you."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Mind Switch, TrueX: A permanent brain swap."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psychic ChirurgeryX: You repair psychic damage or impart knowledge of new powers."
+    },
+    {
+      "type": "paragraph",
+      "text": "PSYCHIC WARRIOR POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "1ST-LEVEL PSYCHIC WARRIOR POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Astral Traveler: Enable yourself or another to join an astral caravan-enabled trip."
+    },
+    {
+      "type": "paragraph",
+      "text": "BiofeedbackA: Gain DR 2/–."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bite of the Wolf: Gain bite attack for 1d8 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Burst: Gain +10ft. to speed this round."
+    },
+    {
+      "type": "paragraph",
+      "text": "Call WeaponryA: Create temporary weapon."
+    },
+    {
+      "type": "paragraph",
+      "text": "CatfallA: Instantly save yourself from a fall."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chameleon: Gain +10 enhancement bonus on Hide checks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Claws of the BeastA: Your hands become deadly claws."
+    },
+    {
+      "type": "paragraph",
+      "text": "CompressionA: You grow smaller."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conceal Thoughts: You conceal your motives."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detect Psionics: You detect the presence of psionics."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dissipating TouchA: Touch deals 1d6 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Distract: Subject gets –4 on Listen, Search, Sense Motive, and Spot checks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elfsight: Gain low-light vision, +2 bonus on Search and Spot checks, and notice secret doors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Empty Mind: Gain +2 on Will saves until your next action."
+    },
+    {
+      "type": "paragraph",
+      "text": "ExpansionA: Become one size category larger."
+    },
+    {
+      "type": "paragraph",
+      "text": "FloatA: Buoy yourself in water or other liquid."
+    },
+    {
+      "type": "paragraph",
+      "text": "Force ScreenA: Invisible disc provides +4 shield bonus to AC."
+    },
+    {
+      "type": "paragraph",
+      "text": "Grip of IronA: Your iron grip gives +4 bonus on grapple checks."
+    },
+    {
+      "type": "paragraph",
+      "text": "HammerA: Melee touch attack deals 1d8/round."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inertial ArmorA: Tangible field of force provides you with +4 armor bonus to AC."
+    },
+    {
+      "type": "paragraph",
+      "text": "Metaphysical ClawA: Your natural weapon gains +1 bonus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Metaphysical WeaponA: Weapon gains +1 bonus."
+    },
+    {
+      "type": "paragraph",
+      "text": "My LightA: Your eyes emit 20-ft. cone of light."
+    },
+    {
+      "type": "paragraph",
+      "text": "Precognition, DefensiveA: Gain +1 insight bonus to AC and saving throws."
+    },
+    {
+      "type": "paragraph",
+      "text": "Precognition, OffensiveA: Gain +1 insight bonus on your attack rolls."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prescience, OffensiveA: Gain +2 insight bonus on your damage rolls."
+    },
+    {
+      "type": "paragraph",
+      "text": "PrevenomA: Your claws gain a poison coating."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prevenom WeaponA: Your weapon is mildly venomous."
+    },
+    {
+      "type": "paragraph",
+      "text": "Skate: Subject slides skillfully along the ground."
+    },
+    {
+      "type": "paragraph",
+      "text": "StompA: Subjects fall prone and take 1d4 nonlethal damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Synesthete: You receive one kind of sense when another sense is stimulated."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thicken SkinA: Gain +1 enhancement bonus to your AC for 10 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "VigorA: Gain 5 temporary hit points."
+    },
+    {
+      "type": "paragraph",
+      "text": "2ND-LEVEL PSYCHIC WARRIOR POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Animal AffinityA: Gain +4 enhancement to one ability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Body AdjustmentA: Heal 1d12 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Body Equilibrium: You can walk on nonsolid surfaces."
+    },
+    {
+      "type": "paragraph",
+      "text": "Body PurificationA: Restore 2 points of ability damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Concealing Amorpha: Quasi-real membrane grants you concealment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darkvision, Psionic: See 60 ft. in total darkness."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detect Hostile Intent: You can detect hostile creatures within 30 ft. of you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dimension SwapA: You and an ally switch positions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dissolving TouchA: Your touch deals 4d6 acid damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dissolving WeaponA: Your weapon deals 4d6 acid damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Empathic TransferA: Transfer another’s wounds to yourself."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy Adaptation, SpecifiedA: Gain resistance 10 to one energy type."
+    },
+    {
+      "type": "paragraph",
+      "text": "Feat LeechA: Borrow another’s psionic or metapsionic feats."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hustle: Instantly gain a move action."
+    },
+    {
+      "type": "paragraph",
+      "text": "Levitate, Psionic: You move up and down, forward and back, via mental support."
+    },
+    {
+      "type": "paragraph",
+      "text": "Painful StrikeA: Your natural weapons deal an extra 1d6 nonlethal damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prowess: Instantly gain another attack of opportunity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psionic Scent: Gain the scent ability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psionic Lion’s ChargeA: You can make full attack in same round you charge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Strength of My EnemyA: Siphon away your enemy’s strength and grow stronger."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sustenance: You can go without food and water for one day."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thought ShieldA: Gain PR 13 against mind-affecting powers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Walker: Grants ability to walk on walls and ceilings."
+    },
+    {
+      "type": "paragraph",
+      "text": "3RD-LEVEL PSYCHIC WARRIOR POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Claws of the Vampire: Heal half of your claw’s base damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Concealing Amorpha, Greater: Quasi-real membrane grants you total concealment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Danger Sense: Gain +4 bonus against traps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dimension SlideA: Teleports you very short distance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Duodimensional Claw: Increases your natural weapon’s threat range."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ectoplasmic Form: You gain benefits of being insubstantial and can fly slowly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Empathic FeedbackA: When you are hit in melee, your attacker takes damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Empathic Transfer, HostileA: Your touch transfers your hurt to another."
+    },
+    {
+      "type": "paragraph",
+      "text": "Escape Detection: You become difficult to detect with clairsentience powers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evade BurstA: You take no damage from a burst on a successful Reflex save."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exhalation of the Black DragonA: Your acid breath deals 3d6 damage to a close target."
+    },
+    {
+      "type": "paragraph",
+      "text": "Graft Weapon: Your hand is replaced seamlessly by your weapon."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keen Edge, Psionic: Doubles normal weapon’s threat range."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mental BarrierA: Gain +4 deflection bonus to AC until your next action."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ubiquitous Vision: You have all-around vision."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vampiric Blade: You heal half of your base weapon damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "4TH-LEVEL PSYCHIC WARRIOR POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Claw of Energy: Your claws deal additional energy damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dimension Door, Psionic: Teleports you short distance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy AdaptationA: Your body converts energy to harmless light."
+    },
+    {
+      "type": "paragraph",
+      "text": "Freedom of Movement, Psionic: You cannot be held or otherwise rendered immobile."
+    },
+    {
+      "type": "paragraph",
+      "text": "Immovability: You are almost impossible to move and gain DR 15/–."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inertial Barrier: Gain DR 5/–."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psychic Vampire. Touch attack drains 2 power points/level from foe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Steadfast Perception: Gain immunity to illusory effects, +6 bonus on Spot and Search checks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Truevenom: Your natural weapons are covered in horrible poison."
+    },
+    {
+      "type": "paragraph",
+      "text": "Truevenom Weapon: Your weapon is horribly poisonous."
+    },
+    {
+      "type": "paragraph",
+      "text": "Weapon of Energy: Weapon deals additional energy damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "5TH-LEVEL PSYCHIC WARRIOR POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adapt Body: Your body automatically adapts to hostile environments."
+    },
+    {
+      "type": "paragraph",
+      "text": "CatapsiA: Psychic static inhibits power manifestation."
+    },
+    {
+      "type": "paragraph",
+      "text": "MetaconcertA: Mental concert of two or more increases the total power of the participants."
+    },
+    {
+      "type": "paragraph",
+      "text": "Oak BodyA: Your body becomes as hard as oak."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psychofeedback: Boost Str, Dex, or Con at the expense of one or more other scores."
+    },
+    {
+      "type": "paragraph",
+      "text": "6TH-LEVEL PSYCHIC WARRIOR POWERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Breath of the Black DragonA: Breathe acid for 11d6 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dispelling Buffer: You are buffered from one dispel psionics effect."
+    },
+    {
+      "type": "paragraph",
+      "text": "Form of DoomA: You transform into a frightening tentacled beast."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mind Blank, Personal: You are immune to scrying and mental effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Suspend Life: Put yourself into a state akin to suspended animation."
+    }
+  ]
+}

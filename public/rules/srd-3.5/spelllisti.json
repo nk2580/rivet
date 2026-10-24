@@ -1,0 +1,2773 @@
+{
+  "schemaVersion": 1,
+  "edition": "3.5e",
+  "version": "SRD-3.5",
+  "id": "spelllisti",
+  "title": "SPELL LIST I",
+  "document": "SpellListI.rtf",
+  "sourceUrl": "https://web.archive.org/web/20160328013113id_/http://www.wizards.com/d20/files/v35/SRD.zip",
+  "sourceSha256": "0aa7ca33b2296a66779d0d6e8c117628238b138b411832f00721faa367620872",
+  "license": "OGL-1.0a",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a."
+    },
+    {
+      "type": "paragraph",
+      "text": "SPELL LIST I"
+    },
+    {
+      "type": "paragraph",
+      "text": "An M or F appearing at the end of a spell’s name in the spell lists denotes a spell with a material or focus component, respectively, that is not normally included in a spell component pouch. An X denotes a spell with an XP component paid by the caster."
+    },
+    {
+      "type": "paragraph",
+      "text": "Order of Presentation: In the spell lists and the spell descriptions that follow them, the spells are presented in alphabetical order by name except for those belonging to certain spell chains."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a spell’s name begins with “lesser,” “greater,” or “mass,” the spell description is alphabetized under the second word of the spell name instead."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hit Dice: The term “Hit Dice” is used synonymously with “character levels” for effects that affect a number of Hit Dice of creatures. Creatures with Hit Dice only from their race, not from classes, have character levels equal to their Hit Dice."
+    },
+    {
+      "type": "paragraph",
+      "text": "Caster Level: A spell’s power often depends on caster level, which is defined as the caster’s class level for the purpose of casting a particular spell. A creature with no classes has a caster level equal to its Hit Dice unless otherwise specified. The word “level” in the spell lists that follow always refers to caster level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Creatures and Characters: The words “creature” and “character” are used synonymously in the spell descriptions."
+    },
+    {
+      "type": "paragraph",
+      "text": "BARD SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "0-LEVEL BARD SPELLS (CANTRIPS)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dancing Lights: Creates torches or other lights."
+    },
+    {
+      "type": "paragraph",
+      "text": "Daze: Humanoid creature of 4 HD or less loses next action."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detect Magic: Detects spells and magic items within 60 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Flare: Dazzles one creature (–1 on attack rolls)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ghost Sound: Figment sounds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Know Direction: You discern north."
+    },
+    {
+      "type": "paragraph",
+      "text": "Light: Object shines like a torch."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lullaby: Makes subject drowsy; –5 on Spot and Listen checks, –2 on Will saves against sleep."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mage Hand: 5-pound telekinesis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mending: Makes minor repairs on an object."
+    },
+    {
+      "type": "paragraph",
+      "text": "Message: Whispered conversation at distance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Open/Close: Opens or closes small or light things."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prestidigitation: Performs minor tricks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Read Magic: Read scrolls and spellbooks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Resistance: Subject gains +1 on saving throws."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Instrument: Summons one instrument of the caster’s choice."
+    },
+    {
+      "type": "paragraph",
+      "text": "1ST-LEVEL BARD SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alarm: Wards an area for 2 hours/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Animate Rope: Makes a rope move at your command."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cause Fear: One creature of 5 HD or less flees for 1d4 rounds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Charm Person: Makes one person your friend."
+    },
+    {
+      "type": "paragraph",
+      "text": "Comprehend Languages: You understand all spoken and written languages."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cure Light Wounds: Cures 1d8 damage +1/level (max +5)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detect Secret Doors: Reveals hidden doors within 60 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Disguise Self: Changes your appearance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Erase: Mundane or magical writing vanishes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expeditious Retreat: Your speed increases by 30 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Feather Fall: Objects or creatures fall slowly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Grease: Makes 10-ft. square or one object slippery."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hideous Laughter: Subject loses actions for 1 round/ level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypnotism: Fascinates 2d4 HD of creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Identify M: Determines properties of magic item."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lesser Confusion: One creature is confused for 1 round."
+    },
+    {
+      "type": "paragraph",
+      "text": "Magic Mouth M: Speaks once when triggered."
+    },
+    {
+      "type": "paragraph",
+      "text": "Magic Aura: Alters object’s magic aura."
+    },
+    {
+      "type": "paragraph",
+      "text": "Obscure Object: Masks object against scrying."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remove Fear: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Silent Image: Creates minor illusion of your design."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sleep: Puts 4 HD of creatures into magical slumber."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Monster I: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Undetectable Alignment: Conceals alignment for 24 hours."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unseen Servant: Invisible force obeys your commands."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ventriloquism: Throws voice for 1 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "2ND-LEVEL BARD SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alter Self: Assume form of a similar creature."
+    },
+    {
+      "type": "paragraph",
+      "text": "Animal Messenger: Sends a Tiny animal to a specific place."
+    },
+    {
+      "type": "paragraph",
+      "text": "Animal Trance: Fascinates 2d6 HD of animals."
+    },
+    {
+      "type": "paragraph",
+      "text": "Blindness/Deafness: Makes subject blind or deaf."
+    },
+    {
+      "type": "paragraph",
+      "text": "Blur: Attacks miss subject 20% of the time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Calm Emotions: Calms creatures, negating emotion effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cat’s Grace: Subject gains +4 to Dex for 1 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cure Moderate Wounds: Cures 2d8 damage +1/level (max +10)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darkness: 20-ft. radius of supernatural shadow."
+    },
+    {
+      "type": "paragraph",
+      "text": "Daze Monster: Living creature of 6 HD or less loses next action."
+    },
+    {
+      "type": "paragraph",
+      "text": "Delay Poison: Stops poison from harming subject for 1 hour/ level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detect Thoughts: Allows “listening” to surface thoughts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eagle’s Splendor: Subject gains +4 to Cha for 1 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Enthrall: Captivates all within 100 ft. + 10 ft./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fox’s Cunning: Subject gains +4 to Int for 1 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Glitterdust: Blinds creatures, outlines invisible creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Heroism: Gives +2 on attack rolls, saves, skill checks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hold Person: Paralyzes one humanoid for 1 round/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypnotic Pattern: Fascinates (2d4 + level) HD of creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Invisibility: Subject is invisible for 1 min./level or until it attacks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Locate Object: Senses direction toward object (specific or type)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Minor Image: As silent image, plus some sound."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mirror Image: Creates decoy duplicates of you (1d4 +1 per three levels, max 8)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Misdirection: Misleads divinations for one creature or object."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pyrotechnics: Turns fire into blinding light or choking smoke."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rage: Gives +2 to Str and Con, +1 on Will saves, –2 to AC."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scare: Panics creatures of less than 6 HD."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shatter: Sonic vibration damages objects or crystalline creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Silence: Negates sound in 20-ft. radius."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sound Burst: Deals 1d8 sonic damage to subjects; may stun them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Suggestion: Compels subject to follow stated course of action."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Monster II: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Swarm: Summons swarm of bats, rats, or spiders."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tongues: Speak any language."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whispering Wind: Sends a short message 1 mile/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "3RD-LEVEL BARD SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Blink: You randomly vanish and reappear for 1 round/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Charm Monster: Makes monster believe it is your ally."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clairaudience/Clairvoyance: Hear or see at a distance for 1 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Confusion: Subjects behave oddly for 1 round/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Crushing Despair: Subjects take –2 on attack rolls, damage rolls, saves, and checks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cure Serious Wounds: Cures 3d8 damage +1/level (max +15)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Daylight: 60-ft. radius of bright light."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deep Slumber: Puts 10 HD of creatures to sleep."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dispel Magic: Cancels magical spells and effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Displacement: Attacks miss subject 50%."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fear: Subjects within cone flee for 1 round/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gaseous Form: Subject becomes insubstantial and can fly slowly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Geas, Lesser: Commands subject of 7 HD or less."
+    },
+    {
+      "type": "paragraph",
+      "text": "Glibness: You gain +30 bonus on Bluff checks, and your lies can escape magical discernment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Good Hope: Subjects gain +2 on attack rolls, damage rolls, saves, and checks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Haste: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves."
+    },
+    {
+      "type": "paragraph",
+      "text": "Illusory Script M: Only intended reader can decipher."
+    },
+    {
+      "type": "paragraph",
+      "text": "Invisibility Sphere:Makes everyone within 10 ft. invisible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Major Image: As silent image, plus sound, smell and thermal effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Phantom Steed: Magic horse appears for 1 hour/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remove Curse: Frees object or person from curse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scrying F: Spies on subject from a distance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sculpt Sound: Creates new sounds or changes existing ones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Secret Page: Changes one page to hide its real content."
+    },
+    {
+      "type": "paragraph",
+      "text": "See Invisibility: Reveals invisible creatures or objects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sepia Snake Sigil M: Creates text symbol that immobilizes reader."
+    },
+    {
+      "type": "paragraph",
+      "text": "Slow: One subject/level takes only one action/round, –1 to AC, reflex saves, and attack rolls."
+    },
+    {
+      "type": "paragraph",
+      "text": "Speak with Animals: You can communicate with animals."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Monster III: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tiny Hut: Creates shelter for ten creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "4TH-LEVEL BARD SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Break Enchantment: Frees subjects from enchantments, alterations, curses, and petrification."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cure Critical Wounds: Cures 4d8 damage +1/level (max +20)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detect Scrying: Alerts you of magical eavesdropping."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dimension Door: Teleports you short distance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dominate Person: Controls humanoid telepathically."
+    },
+    {
+      "type": "paragraph",
+      "text": "Freedom of Movement: Subject moves normally despite impediments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hallucinatory Terrain: Makes one type of terrain appear like another (field into forest, or the like)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hold Monster: As hold person, but any creature."
+    },
+    {
+      "type": "paragraph",
+      "text": "Invisibility, Greater: As invisibility, but subject can attack and stay invisible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legend Lore M F: Lets you learn tales about a person, place, or thing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Locate Creature: Indicates direction to familiar creature."
+    },
+    {
+      "type": "paragraph",
+      "text": "Modify Memory: Changes 5 minutes of subject’s memories."
+    },
+    {
+      "type": "paragraph",
+      "text": "Neutralize Poison: Immunizes subject against poison, detoxifies venom in or on subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rainbow Pattern: Lights fascinate 24 HD of creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Repel Vermin: Insects, spiders, and other vermin stay 10 ft. away."
+    },
+    {
+      "type": "paragraph",
+      "text": "Secure Shelter: Creates sturdy cottage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shadow Conjuration: Mimics conjuring below 4th level, but only 20% real."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shout: Deafens all within cone and deals 5d6 sonic damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Speak with Plants: You can talk to normal plants and plant creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Monster IV: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zone of Silence: Keeps eavesdroppers from overhearing conversations."
+    },
+    {
+      "type": "paragraph",
+      "text": "5TH-LEVEL BARD SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cure Light Wounds, Mass: Cures 1d8 damage +1/level for many creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dispel Magic, Greater: As dispel magic, but +20 on check."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dream: Sends message to anyone sleeping."
+    },
+    {
+      "type": "paragraph",
+      "text": "False Vision M: Fools scrying with an illusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Heroism, Greater: Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mind Fog: Subjects in fog get –10 to Wis and Will checks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mirage Arcana: As hallucinatory terrain, plus structures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mislead: Turns you invisible and creates illusory double."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nightmare: Sends vision dealing 1d10 damage, fatigue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persistent Image: As major image, but no concentration required."
+    },
+    {
+      "type": "paragraph",
+      "text": "Seeming: Changes appearance of one person per two levels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shadow Evocation: Mimics evocation of lower than 5th level, but only 20% real."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shadow Walk: Step into shadow to travel rapidly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Song of Discord: Forces targets to attack each other."
+    },
+    {
+      "type": "paragraph",
+      "text": "Suggestion, Mass: As suggestion, plus one subject/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Monster V: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "6TH-LEVEL BARD SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Analyze Dweomer F: Reveals magical aspects of subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "Animate Objects: Objects attack your foes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cat’s Grace, Mass: As cat’s grace, affects one subject/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Charm Monster, Mass: As charm monster, but all within 30 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cure Moderate Wounds, Mass: Cures 2d8 damage +1/level for many creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eagle’s Splendor, Mass: As eagle’s splendor, affects one subject/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eyebite: Target becomes panicked, sickened, and comatose."
+    },
+    {
+      "type": "paragraph",
+      "text": "Find the Path: Shows most direct way to a location."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fox’s Cunning, Mass: As fox’s cunning, affects one subject/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Geas/Quest: As lesser geas, plus it affects any creature."
+    },
+    {
+      "type": "paragraph",
+      "text": "Heroes’ Feast: Food for one creature/level cures and grants combat bonuses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Irresistible Dance: Forces subject to dance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Permanent Image: Includes sight, sound, and smell."
+    },
+    {
+      "type": "paragraph",
+      "text": "Programmed Image M: As major image, plus triggered by event."
+    },
+    {
+      "type": "paragraph",
+      "text": "Project Image: Illusory double can talk and cast spells."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scrying, Greater: As scrying, but faster and longer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shout, Greater: Devastating yell deals 10d6 sonic damage; stuns creatures, damages objects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Monster VI: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sympathetic Vibration: Deals 2d10 damage/round to freestanding structure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Veil: Changes appearance of group of creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "CLERIC SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "0-LEVEL CLERIC SPELLS (ORISONS)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Create Water: Creates 2 gallons/level of pure water."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cure Minor Wounds: Cures 1 point of damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detect Magic: Detects spells and magic items within 60 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detect Poison: Detects poison in one creature or object."
+    },
+    {
+      "type": "paragraph",
+      "text": "Guidance: +1 on one attack roll, saving throw, or skill check."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inflict Minor Wounds: Touch attack, 1 point of damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Light: Object shines like a torch."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mending: Makes minor repairs on an object."
+    },
+    {
+      "type": "paragraph",
+      "text": "Purify Food and Drink: Purifies 1 cu. ft./level of food or water."
+    },
+    {
+      "type": "paragraph",
+      "text": "Read Magic: Read scrolls and spellbooks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Resistance: Subject gains +1 on saving throws."
+    },
+    {
+      "type": "paragraph",
+      "text": "Virtue: Subject gains 1 temporary hp."
+    },
+    {
+      "type": "paragraph",
+      "text": "1ST-LEVEL CLERIC SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bane: Enemies take –1 on attack rolls and saves against fear."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bless: Allies gain +1 on attack rolls and saves against fear."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bless Water M: Makes holy water."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cause Fear: One creature of 5 HD or less flees for 1d4 rounds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Command: One subject obeys selected command for 1 round."
+    },
+    {
+      "type": "paragraph",
+      "text": "Comprehend Languages: You understand all spoken and written languages."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cure Light Wounds: Cures 1d8 damage +1/level (max +5)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Curse Water M: Makes unholy water."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deathwatch: Reveals how near death subjects within 30 ft. are."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detect Chaos/Evil/Good/Law: Reveals creatures, spells, or objects of selected alignment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detect Undead: Reveals undead within 60 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Divine Favor: You gain +1 per three levels on attack and damage rolls."
+    },
+    {
+      "type": "paragraph",
+      "text": "Doom: One subject takes –2 on attack rolls, damage rolls, saves, and checks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Endure Elements: Exist comfortably in hot or cold environments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entropic Shield: Ranged attacks against you have 20% miss chance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hide from Undead: Undead can’t perceive one subject/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inflict Light Wounds: Touch deals 1d8 damage +1/level (max +5)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Magic Stone: Three stones gain +1 on attack, deal 1d6 +1 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Magic Weapon: Weapon gains +1 bonus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Obscuring Mist: Fog surrounds you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Protection from Chaos/Evil/Good/Law: +2 to AC and saves, counter mind control, hedge out elementals and outsiders."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remove Fear: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sanctuary: Opponents can’t attack you, and you can’t attack."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shield of Faith: Aura grants +2 or higher deflection bonus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Monster I: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "2ND-LEVEL CLERIC SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aid: +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Align Weapon: Weapon becomes good, evil, lawful, or chaotic."
+    },
+    {
+      "type": "paragraph",
+      "text": "Augury M F: Learns whether an action will be good or bad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bear’s Endurance: Subject gains +4 to Con for 1 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bull’s Strength: Subject gains +4 to Str for 1 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Calm Emotions: Calms creatures, negating emotion effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consecrate M: Fills area with positive energy, making undead weaker."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cure Moderate Wounds: Cures 2d8 damage +1/level (max +10)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darkness: 20-ft. radius of supernatural shadow."
+    },
+    {
+      "type": "paragraph",
+      "text": "Death Knell: Kills dying creature; you gain 1d8 temporary hp, +2 to Str, and +1 level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Delay Poison: Stops poison from harming subject for 1 hour/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Desecrate M: Fills area with negative energy, making undead stronger."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eagle’s Splendor: Subject gains +4 to Cha for 1 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Enthrall: Captivates all within 100 ft. + 10 ft./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Find Traps: Notice traps as a rogue does."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gentle Repose: Preserves one corpse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hold Person: Paralyzes one humanoid for 1 round/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inflict Moderate Wounds: Touch attack, 2d8 damage +1/level (max +10)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Make Whole: Repairs an object."
+    },
+    {
+      "type": "paragraph",
+      "text": "Owl’s Wisdom: Subject gains +4 to Wis for 1 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remove Paralysis: Frees one or more creatures from paralysis or slow effect."
+    },
+    {
+      "type": "paragraph",
+      "text": "Resist Energy: Ignores 10 (or more) points of damage/attack from specified energy type."
+    },
+    {
+      "type": "paragraph",
+      "text": "Restoration, Lesser: Dispels magical ability penalty or repairs 1d4 ability damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shatter: Sonic vibration damages objects or crystalline creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shield Other F: You take half of subject’s damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Silence: Negates sound in 20-ft. radius."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sound Burst: Deals 1d8 sonic damage to subjects; may stun them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Spiritual Weapon: Magic weapon attacks on its own."
+    },
+    {
+      "type": "paragraph",
+      "text": "Status: Monitors condition, position of allies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Monster II: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Undetectable Alignment: Conceals alignment for 24 hours."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zone of Truth: Subjects within range cannot lie."
+    },
+    {
+      "type": "paragraph",
+      "text": "3RD-LEVEL CLERIC SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Animate Dead M: Creates undead skeletons and zombies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bestow Curse: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action."
+    },
+    {
+      "type": "paragraph",
+      "text": "Blindness/Deafness: Makes subject blinded or deafened."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contagion: Infects subject with chosen disease."
+    },
+    {
+      "type": "paragraph",
+      "text": "Continual Flame M: Makes a permanent, heatless torch."
+    },
+    {
+      "type": "paragraph",
+      "text": "Create Food and Water: Feeds three humans (or one horse)/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cure Serious Wounds: Cures 3d8 damage +1/level (max +15)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Daylight: 60-ft. radius of bright light."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deeper Darkness: Object sheds supernatural shadow in 60-ft. radius."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dispel Magic: Cancels spells and magical effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Glyph of Warding M: Inscription harms those who pass it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Helping Hand: Ghostly hand leads subject to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inflict Serious Wounds: Touch attack, 3d8 damage +1/level (max +15)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Invisibility Purge: Dispels invisibility within 5 ft./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Locate Object: Senses direction toward object (specific or type)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Magic Circle against Chaos/Evil/Good/Law: As protection spells, but 10-ft. radius and 10 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Magic Vestment: Armor or shield gains +1 enhancement per four levels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meld into Stone: You and your gear merge with stone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Obscure Object: Masks object against scrying."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prayer: Allies +1 bonus on most rolls, enemies –1 penalty."
+    },
+    {
+      "type": "paragraph",
+      "text": "Protection from Energy: Absorb 12 points/level of damage from one kind of energy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remove Blindness/Deafness: Cures normal or magical conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remove Curse: Frees object or person from curse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remove Disease: Cures all diseases affecting subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "Searing Light: Ray deals 1d8/two levels damage, more against undead."
+    },
+    {
+      "type": "paragraph",
+      "text": "Speak with Dead: Corpse answers one question/two levels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stone Shape: Sculpts stone into any shape."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Monster III: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Water Breathing: Subjects can breathe underwater."
+    },
+    {
+      "type": "paragraph",
+      "text": "Water Walk: Subject treads on water as if solid."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wind Wall: Deflects arrows, smaller creatures, and gases."
+    },
+    {
+      "type": "paragraph",
+      "text": "4TH-LEVEL CLERIC SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Air Walk: Subject treads on air as if solid (climb at 45-degree angle)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Control Water: Raises or lowers bodies of water."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cure Critical Wounds: Cures 4d8 damage +1/level (max +20)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Death Ward: Grants immunity to death spells and negative energy effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dimensional Anchor: Bars extradimensional movement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Discern Lies: Reveals deliberate falsehoods."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dismissal: Forces a creature to return to native plane."
+    },
+    {
+      "type": "paragraph",
+      "text": "Divination M: Provides useful advice for specific proposed actions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Divine Power: You gain attack bonus, +6 to Str, and 1 hp/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Freedom of Movement: Subject moves normally despite impediments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Giant Vermin: Turns centipedes, scorpions, or spiders into giant vermin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imbue with Spell Ability: Transfer spells to subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inflict Critical Wounds: Touch attack, 4d8 damage +1/level (max +20)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Magic Weapon, Greater: +1 bonus/four levels (max +5)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Neutralize Poison: Immunizes subject against poison, detoxifies venom in or on subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "Planar Ally, Lesser X: Exchange services with a 6 HD extraplanar creature."
+    },
+    {
+      "type": "paragraph",
+      "text": "Poison: Touch deals 1d10 Con damage, repeats in 1 min."
+    },
+    {
+      "type": "paragraph",
+      "text": "Repel Vermin: Insects, spiders, and other vermin stay 10 ft. away."
+    },
+    {
+      "type": "paragraph",
+      "text": "Restoration M: Restores level and ability score drains."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sending: Delivers short message anywhere, instantly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Immunity: Subject is immune to one spell per four levels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Monster IV: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tongues: Speak any language."
+    },
+    {
+      "type": "paragraph",
+      "text": "5TH-LEVEL CLERIC SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Atonement F X: Removes burden of misdeeds from subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "Break Enchantment: Frees subjects from enchantments, alterations, curses, and petrification."
+    },
+    {
+      "type": "paragraph",
+      "text": "Command, Greater: As command, but affects one subject/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Commune X: Deity answers one yes-or-no question/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cure Light Wounds, Mass: Cures 1d8 damage +1/level for many creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dispel Chaos/Evil/Good/Law: +4 bonus against attacks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Disrupting Weapon: Melee weapon destroys undead."
+    },
+    {
+      "type": "paragraph",
+      "text": "Flame Strike: Smite foes with divine fire (1d6/level damage)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hallow M: Designates location as holy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inflict Light Wounds, Mass: Deals 1d8 damage +1/level to many creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Insect Plague: Locust swarms attack creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mark of Justice: Designates action that will trigger curse on subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "Plane Shift F: As many as eight subjects travel to another plane."
+    },
+    {
+      "type": "paragraph",
+      "text": "Raise Dead M: Restores life to subject who died as long as one day/level ago."
+    },
+    {
+      "type": "paragraph",
+      "text": "Righteous Might: Your size increases, and you gain combat bonuses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scrying F: Spies on subject from a distance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Slay Living: Touch attack kills subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Subject gains SR 12 + level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Monster V: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol of Pain M: Triggered rune wracks nearby creatures with pain."
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol of Sleep M: Triggered rune puts nearby creatures into catatonic slumber."
+    },
+    {
+      "type": "paragraph",
+      "text": "True Seeing M: Lets you see all things as they really are."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unhallow M: Designates location as unholy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall of Stone: Creates a stone wall that can be shaped."
+    },
+    {
+      "type": "paragraph",
+      "text": "6TH-LEVEL CLERIC SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Animate Objects: Objects attack your foes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Antilife Shell: 10-ft. field hedges out living creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Banishment: Banishes 2 HD/level of extraplanar creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bear’s Endurance, Mass: As bear’s endurance, affects one subject/ level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Blade Barrier: Wall of blades deals 1d6/level damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bull’s Strength, Mass: As bull’s strength, affects one subject/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Create Undead: Create ghouls, ghasts, mummies, or mohrgs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cure Moderate Wounds, Mass: Cures 2d8 damage +1/level for many creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dispel Magic, Greater: As dispel magic, but up to +20 on check."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eagle’s Splendor, Mass: As eagle’s splendor, affects one subject/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Find the Path: Shows most direct way to a location."
+    },
+    {
+      "type": "paragraph",
+      "text": "Forbiddance M: Blocks planar travel, damages creatures of different alignment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Geas/Quest: As lesser geas, plus it affects any creature."
+    },
+    {
+      "type": "paragraph",
+      "text": "Glyph of Warding, Greater: As glyph of warding, but up to 10d8 damage or 6th-level spell."
+    },
+    {
+      "type": "paragraph",
+      "text": "Harm: Deals 10 points/level damage to target."
+    },
+    {
+      "type": "paragraph",
+      "text": "Heal: Cures 10 points/level of damage, all diseases and mental conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Heroes’ Feast: Food for one creature/level cures and grants combat bonuses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inflict Moderate Wounds, Mass: Deals 2d8 damage +1/level to many creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Owl’s Wisdom, Mass: As owl’s wisdom, affects one subject/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Planar Ally X: As lesser planar ally, but up to 12 HD."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Monster VI: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol of Fear M: Triggered rune panics nearby creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol of Persuasion M: Triggered rune charms nearby creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Undeath to Death M: Destroys 1d4 HD/level undead (max 20d4)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wind Walk: You and your allies turn vaporous and travel fast."
+    },
+    {
+      "type": "paragraph",
+      "text": "Word of Recall: Teleports you back to designated place."
+    },
+    {
+      "type": "paragraph",
+      "text": "7TH-LEVEL CLERIC SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Blasphemy: Kills, paralyzes, weakens, or dazes nonevil subjects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Control Weather: Changes weather in local area."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cure Serious Wounds, Mass: Cures 3d8 damage +1/level for many creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Destruction F: Kills subject and destroys remains."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dictum: Kills, paralyzes, slows, or deafens nonlawful subjects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ethereal Jaunt: You become ethereal for 1 round/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Holy Word: Kills, paralyzes, blinds, or deafens nongood subjects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inflict Serious Wounds, Mass: Deals 3d8 damage +1/level to many creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Refuge M: Alters item to transport its possessor to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Regenerate: Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Repulsion: Creatures can’t approach you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Restoration, Greater X: As restoration, plus restores all levels and ability scores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Resurrection M: Fully restore dead subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scrying, Greater: As scrying, but faster and longer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Monster VII: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol of Stunning M: Triggered rune stuns nearby creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol of Weakness M: Triggered rune weakens nearby creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Word of Chaos: Kills, confuses, stuns, or deafens nonchaotic subjects."
+    },
+    {
+      "type": "paragraph",
+      "text": "8TH-LEVEL CLERIC SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antimagic Field: Negates magic within 10 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cloak of Chaos F: +4 to AC, +4 resistance, and SR 25 against lawful spells."
+    },
+    {
+      "type": "paragraph",
+      "text": "Create Greater Undead M: Create shadows, wraiths, spectres, or devourers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cure Critical Wounds, Mass: Cures 4d8 damage +1/level for many creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dimensional Lock: Teleportation and interplanar travel blocked for one day/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Discern Location: Reveals exact location of creature or object."
+    },
+    {
+      "type": "paragraph",
+      "text": "Earthquake: Intense tremor shakes 80-ft.-radius."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fire Storm: Deals 1d6/level fire damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Holy Aura F: +4 to AC, +4 resistance, and SR 25 against evil spells."
+    },
+    {
+      "type": "paragraph",
+      "text": "Planar Ally, Greater X: As lesser planar ally, but up to 18 HD."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inflict Critical Wounds, Mass: Deals 4d8 damage +1/level to many creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shield of Law F: +4 to AC, +4 resistance, and SR 25 against chaotic spells."
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Immunity, Greater: As spell immunity, but up to 8th-level spells."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Monster VIII: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol of Death M: Triggered rune slays nearby creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol of Insanity M: Triggered rune renders nearby creatures insane."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unholy Aura F: +4 to AC, +4 resistance, and SR 25 against good spells."
+    },
+    {
+      "type": "paragraph",
+      "text": "9TH-LEVEL CLERIC SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Astral Projection M: Projects you and companions onto Astral Plane."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy Drain: Subject gains 2d4 negative levels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Etherealness: Travel to Ethereal Plane with companions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gate X: Connects two planes for travel or summoning."
+    },
+    {
+      "type": "paragraph",
+      "text": "Heal, Mass: As heal, but with several subjects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Implosion: Kills one creature/round."
+    },
+    {
+      "type": "paragraph",
+      "text": "Miracle X: Requests a deity’s intercession."
+    },
+    {
+      "type": "paragraph",
+      "text": "Soul Bind F: Traps newly dead soul to prevent resurrection."
+    },
+    {
+      "type": "paragraph",
+      "text": "Storm of Vengeance: Storm rains acid, lightning, and hail."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summon Monster IX: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "True Resurrection M: As resurrection, plus remains aren’t needed."
+    },
+    {
+      "type": "paragraph",
+      "text": "CLERIC DOMAINS"
+    },
+    {
+      "type": "paragraph",
+      "text": "AIR DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Powers: Turn or destroy earth creatures as a good cleric turns undead. Rebuke, command, or bolster air creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Air Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Obscuring Mist: Fog surrounds you."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Wind Wall: Deflects arrows, smaller creatures, and gases."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Gaseous Form: Subject becomes insubstantial and can fly slowly."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Air Walk: Subject treads on air as if solid (climb at 45-degree angle)."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Control Winds: Change wind direction and speed."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Chain Lightning: 1d6/level damage; 1 secondary bolt/level each deals half damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Control Weather: Changes weather in local area."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Whirlwind: Cyclone deals damage and can pick up creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Elemental Swarm*: Summons multiple elementals."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Cast as an air spell only."
+    },
+    {
+      "type": "paragraph",
+      "text": "ANIMAL DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Powers: You can use speak with animals once per day as a spell-like ability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Add Knowledge (nature) to your list of cleric class skills."
+    },
+    {
+      "type": "paragraph",
+      "text": "Animal Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Calm Animals: Calms (2d4 + level) HD of animals."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Hold Animal: Paralyzes one animal for 1 round/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Dominate Animal: Subject animal obeys silent mental commands."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Summon Nature’s Ally IV*: Calls creature to fight."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Commune with Nature: Learn about terrain for 1 mile/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Antilife Shell: 10-ft. field hedges out living creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Animal Shapes: One ally/level polymorphs into chosen animal."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Summon Nature’s Ally VIII*: Calls creature to fight."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Shapechange F: Transforms you into any creature, and change forms once per round."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Can only summon animals."
+    },
+    {
+      "type": "paragraph",
+      "text": "CHAOS DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: You cast chaos spells at +1 caster level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chaos Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Protection from Law: +2 to AC and saves, counter mind control, hedge out elementals and outsiders."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Shatter: Sonic vibration damages objects or crystalline creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Magic Circle against Law: As protection spells, but 10-ft. radius and 10 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Chaos Hammer: Damages and staggers lawful creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Dispel Law: +4 bonus against attacks by lawful creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Animate Objects: Objects attack your foes."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Word of Chaos: Kills, confuses, stuns, or deafens nonchaotic subjects."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Cloak of Chaos F: +4 to AC, +4 resistance, SR 25 against lawful spells."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Summon Monster IX*: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Cast as a chaos spell only."
+    },
+    {
+      "type": "paragraph",
+      "text": "DEATH DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: You may use a death touch once per day. Your death touch is a supernatural ability that produces a death effect. You must succeed on a melee touch attack against a living creature (using the rules for touch spells). When you touch, roll 1d6 per cleric level you possess. If the total at least equals the creature’s current hit points, it dies (no save)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Death Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Cause Fear: One creature of 5 HD or less flees for 1d4 rounds."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Death Knell: Kill dying creature and gain 1d8 temporary hp, +2 to Str, and +1 caster level."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Animate Dead M: Creates undead skeletons and zombies."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Death Ward: Grants immunity to death spells and negative energy effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Slay Living: Touch attack kills subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Create Undead M: Create ghouls, ghasts, mummies, or mohrgs."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Destruction F: Kills subject and destroys remains."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Create Greater Undead M: Create shadows, wraiths, spectres, r devourers."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Wail of the Banshee: Kills one creature/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "DESTRUCTION DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: You gain the smite power, the supernatural ability to make a single melee attack with a +4 bonus on attack rolls and a bonus on damage rolls equal to your cleric level (if you hit). You must declare the smite before making the attack. This ability is usable once per day."
+    },
+    {
+      "type": "paragraph",
+      "text": "Destruction Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Inflict Light Wounds: Touch attack, 1d8 damage +1/level (max +5)."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Shatter: Sonic vibration damages objects or crystalline creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Contagion: Infects subject with chosen disease."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Inflict Critical Wounds: Touch attack, 4d8 damage +1/level (max +20)."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Inflict Light Wounds, Mass: Deals 1d8 damage +1/level to any creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Harm: Deals 10 points/level damage to target."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Disintegrate: Makes one creature or object vanish."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Earthquake: Intense tremor shakes 80-ft.-radius."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Implosion: Kills one creature/round."
+    },
+    {
+      "type": "paragraph",
+      "text": "EARTH DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Turn or destroy air creatures as a good cleric turns undead. Rebuke, command, or bolster earth creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Earth Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Magic Stone: Three stones become +1 projectiles, 1d6 +1 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Soften Earth and Stone: Turns stone to clay or dirt to sand or mud."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Stone Shape: Sculpts stone into any shape."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Spike Stones: Creatures in area take 1d8 damage, may be lowed."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Wall of Stone: Creates a stone wall that can be shaped."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Stoneskin M: Ignore 10 points of damage per attack."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Earthquake: Intense tremor shakes 80-ft.-radius."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Iron Body: Your body becomes living iron."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Elemental Swarm*: Summons multiple elementals."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Cast as an earth spell only."
+    },
+    {
+      "type": "paragraph",
+      "text": "EVIL DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: You cast evil spells at +1 caster level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evil Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Protection from Good: +2 to AC and saves, counter mind control, hedge out elementals and outsiders."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Desecrate M: Fills area with negative energy, making undead stronger."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Magic Circle against Good: As protection spells, but 10-ft. radius and 10 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Unholy Blight: Damages and sickens good creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Dispel Good: +4 bonus against attacks by good creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Create Undead M: Create ghouls, ghasts, mummies, or mohrgs."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Blasphemy: Kills, paralyzes, weakens, or dazes nonevil subjects."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Unholy Aura F: +4 to AC, +4 resistance, SR 25 against good spells."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Summon Monster IX*: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Cast as an evil spell only."
+    },
+    {
+      "type": "paragraph",
+      "text": "FIRE DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Turn or destroy water creatures as a good cleric turns undead. Rebuke, command, or bolster fire creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fire Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Burning Hands: 1d4/level fire damage (max 5d4)."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Produce Flame: 1d6 damage +1/ level, touch or thrown."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Resist Energy*: Ignores 10 (or more) points of damage/attack from specified energy type."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Wall of Fire: Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Fire Shield: Creatures attacking you take fire damage; you’re protected from heat or cold."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Fire Seeds: Acorns and berries become grenades and bombs."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Fire Storm: Deals 1d6/level fire damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Incendiary Cloud: Cloud deals 4d6 fire damage/round."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Elemental Swarm**: Summons multiple elementals."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Resist cold or fire only."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Cast as a fire spell only."
+    },
+    {
+      "type": "paragraph",
+      "text": "GOOD DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: You cast good spells at +1 caster level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Good Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Protection from Evil: +2 to AC and saves, counter mind control, hedge out elementals and outsiders."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Aid: +1 on attack rolls, +1 on saves against fear, 1d8 temporary hp +1/level (max +10)."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Magic Circle against Evil: As protection spells, but 10-ft. radius and 10 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Holy Smite: Damages and blinds evil creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Dispel Evil: +4 bonus against attacks by evil creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Blade Barrier: Wall of blades deals 1d6/level damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Holy Word F: Kills, paralyzes, slows, or deafens nongood subjects."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Holy Aura: +4 to AC, +4 resistance, and SR 25 against evil spells."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Summon Monster IX*: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Cast as a good spell only."
+    },
+    {
+      "type": "paragraph",
+      "text": "HEALING DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: You cast healing spells at +1 caster level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Healing Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Cure Light Wounds: Cures 1d8 damage +1/level (max +5)."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Cure Moderate Wounds: Cures 2d8 damage +1/level (max +10)."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Cure Serious Wounds: Cures 3d8 damage +1/level (max +15)."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Cure Critical Wounds: Cures 4d8 damage +1/level (max +20)."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Cure Light Wounds, Mass: Cures 1d8 damage +1/level (max +25) for many creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Heal: Cures 10 points/level of damage, all diseases and mental conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Regenerate: Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35)."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Cure Critical Wounds, Mass: Cures 4d8 damage +1/level (max +40) for many creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Heal, Mass: As heal, but with several subjects."
+    },
+    {
+      "type": "paragraph",
+      "text": "KNOWLEDGE DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Add all Knowledge skills to your list of cleric class skills."
+    },
+    {
+      "type": "paragraph",
+      "text": "You cast divination spells at +1 caster level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Knowledge Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Detect Secret Doors: Reveals hidden doors within 60 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Detect Thoughts: Allows “listening” to surface thoughts."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Clairaudience/Clairvoyance: Hear or see at a distance for 1 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Divination M: Provides useful advice for specific proposed actions."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 True Seeing M: Lets you see all things as they really are."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Find the Path: Shows most direct way to a location."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Legend Lore M F: Lets you learn tales about a person, place, or thing."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Discern Location: Reveals exact location of creature or object."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Foresight: “Sixth sense” warns of impending danger."
+    },
+    {
+      "type": "paragraph",
+      "text": "LAW DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: You cast law spells at +1 caster level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Law Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Protection from Chaos: +2 to AC and saves, counter mind control, hedge out elementals and outsiders."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Calm Emotions: Calms creatures, negating emotion effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Magic Circle against Chaos: As protection spells, but 10-ft. radius and 10 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Order’s Wrath: Damages and dazes chaotic creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Dispel Chaos: +4 bonus against attacks by chaotic creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Hold Monster: As hold person, but any creature."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Dictum: Kills, paralyzes, slows, or deafens nonlawful subjects."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Shield of Law F: +4 to AC, +4 resistance, and SR 25 against chaotic spells."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Summon Monster IX*: Calls extraplanar creature to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Cast as a law spell only."
+    },
+    {
+      "type": "paragraph",
+      "text": "LUCK DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: You gain the power of good fortune, which is usable once per day. This extraordinary ability allows you to reroll one roll that you have just made before the DM declares whether the roll results in success or failure. You must take the result of the reroll, even if it’s worse than the original roll."
+    },
+    {
+      "type": "paragraph",
+      "text": "Luck Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Entropic Shield: Ranged attacks against you have 20% miss chance."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Aid: +1 on attack rolls, +1 against fear, 1d8 temporary hp +1/level (max +10)."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Protection from Energy: Absorb 12 points/level of damage from one kind of energy."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Freedom of Movement: Subject moves normally despite impediments."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Break Enchantment: Frees subjects from enchantments, alterations, curses, and petrification."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Mislead: Turns you invisible and creates illusory double."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Spell Turning: Reflect 1d4+6 spell levels back at caster."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Moment of Prescience: You gain insight bonus on single attack roll, check, or save."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Miracle X: Requests a deity’s intercession."
+    },
+    {
+      "type": "paragraph",
+      "text": "MAGIC DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Use scrolls, wands, and other devices with spell completion or spell trigger activation as a wizard of one-half your cleric level (at least 1st level). For the purpose of using a scroll or other magic device, if you are also a wizard, actual wizard levels and these effective wizard levels stack."
+    },
+    {
+      "type": "paragraph",
+      "text": "Magic Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Magic Aura: Alters object’s magic aura."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Identify: Determines properties of magic item."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Dispel Magic: Cancels magical spells and effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Imbue with Spell Ability: Transfer spells to subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Spell Resistance: Subject gains SR 12 + level."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Antimagic Field: Negates magic within 10 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Spell Turning: Reflect 1d4+6 spell levels back at caster."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Protection from Spells M F: Confers +8 resistance bonus."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Mage’s Disjunction: Dispels magic, disenchants magic items."
+    },
+    {
+      "type": "paragraph",
+      "text": "PLANT DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Powers: Rebuke or command plant creatures as an evil cleric rebukes or commands undead. Use this ability a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Add Knowledge (nature) to your list of cleric class skills."
+    },
+    {
+      "type": "paragraph",
+      "text": "Plant Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Entangle: Plants entangle everyone in 40-ft.-radius."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Barkskin: Grants +2 (or higher) enhancement to natural armor."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Plant Growth: Grows vegetation, improves crops."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Command Plants: Sway the actions of one or more plant creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Wall of Thorns: Thorns damage anyone who tries to pass."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Repel Wood: Pushes away wooden objects."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Animate Plants: One or more trees animate and fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Control Plants: Control actions of one or more plant creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Shambler: Summons 1d4+2 shambling mounds to fight for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "PROTECTION DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: You can generate a protective ward as a supernatural ability. Grant someone you touch a resistance bonus equal to your cleric level on his or her next saving throw. Activating this power is a standard action. The protective ward is an abjuration effect with a duration of 1 hour that is usable once per day."
+    },
+    {
+      "type": "paragraph",
+      "text": "Protection Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Sanctuary: Opponents can’t attack you, and you can’t attack."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Shield Other F: You take half of subject’s damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Protection from Energy: Absorb 12 points/level of damage from one kind of energy."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Spell Immunity: Subject is immune to one spell per four levels."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Spell Resistance: Subject gains SR 12 + level."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Antimagic Field: Negates magic within 10 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Repulsion: Creatures can’t approach you."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Mind Blank: Subject is immune to mental/emotional magic and scrying."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Prismatic Sphere: As prismatic wall, but surrounds on all sides."
+    },
+    {
+      "type": "paragraph",
+      "text": "STRENGTH DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: You can perform a feat of strength as a supernatural ability. You gain an enhancement bonus to Strength equal to your cleric level. Activating the power is a free action, the power lasts 1 round, and it is usable once per day."
+    },
+    {
+      "type": "paragraph",
+      "text": "Strength Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Enlarge Person: Humanoid creature doubles in size."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Bull’s Strength: Subject gains +4 to Str for 1 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Magic Vestment: Armor or shield gains +1 enhancement per four levels."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Spell Immunity: Subject is immune to one spell per four levels."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Righteous Might: Your size increases, and you gain combat bonuses."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Stoneskin M: Ignore 10 points of damage per attack."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Grasping Hand: Large hand provides cover, pushes, or grapples."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Clenched Fist: Large hand provides cover, pushes, or attacks your foes."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Crushing Hand: Large hand provides cover, pushes, or crushes your foes."
+    },
+    {
+      "type": "paragraph",
+      "text": "SUN DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Once per day, you can perform a greater turning against undead in place of a regular turning. The greater turning is like a normal turning except that the undead creatures that would be turned are destroyed instead."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sun Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Endure Elements: Exist comfortably in hot or cold environments."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Heat Metal: Make metal so hot it damages those who touch it."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Searing Light: Ray deals 1d8/two levels, more against undead."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Fire Shield: Creatures attacking you take fire damage; you’re protected from heat or cold."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Flame Strike: Smite foes with divine fire (1d6/level damage)."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Fire Seeds: Acorns and berries become grenades and bombs."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Sunbeam: Beam blinds and deals 4d6 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Sunburst: Blinds all within 10 ft., deals 6d6 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Prismatic Sphere: As prismatic wall, but surrounds on all sides."
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAVEL DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Powers: For a total time per day of 1 round per cleric level you possess, you can act normally regardless of magical effects that impede movement as if you were affected by the spell freedom of movement. This effect occurs automatically as soon as it applies, lasts until it runs out or is no longer needed, and can operate multiple times per day (up to the total daily limit of rounds)."
+    },
+    {
+      "type": "paragraph",
+      "text": "This granted power is a supernatural ability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Add Survival to your list of cleric class skills."
+    },
+    {
+      "type": "paragraph",
+      "text": "Travel Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Longstrider: Increases your speed."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Locate Object: Senses direction toward object (specific or type)."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Fly: Subject flies at speed of 60 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Dimension Door: Teleports you short distance."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Teleport: Instantly transports you as far as 100 miles/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Find the Path: Shows most direct way to a location."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Teleport, Greater: As teleport, but no range limit and no off-target arrival."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Phase Door: Creates an invisible passage through wood or stone."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Astral Projection M: Projects you and companions onto Astral Plane."
+    },
+    {
+      "type": "paragraph",
+      "text": "TRICKERY DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Add Bluff, Disguise, and Hide to your list of cleric class skills."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trickery Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Disguise Self: Disguise own appearance."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Invisibility: Subject invisible 1 min./level or until it attacks."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Nondetection M: Hides subject from divination, scrying."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Confusion: Subjects behave oddly for 1 round/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 False Vision M: Fools scrying with an illusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Mislead: Turns you invisible and creates illusory double."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Screen: Illusion hides area from vision, scrying."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Polymorph Any Object: Changes any subject into anything else."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Time Stop: You act freely for 1d4+1 rounds."
+    },
+    {
+      "type": "paragraph",
+      "text": "WAR DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Free Martial Weapon Proficiency with deity’s favored weapon (if necessary) and Weapon Focus with the deity’s favored weapon."
+    },
+    {
+      "type": "paragraph",
+      "text": "War Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Magic Weapon: Weapon gains +1 bonus."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Spiritual Weapon: Magical weapon attacks on its own."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Magic Vestment: Armor or shield gains +1 enhancement per four levels."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Divine Power: You gain attack bonus, +6 to Str, and 1 hp/level."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Flame Strike: Smite foes with divine fire (1d6/level damage)."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Blade Barrier: Wall of blades deals 1d6/level damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Power Word Blind: Blinds creature with 200 hp or less."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Power Word Stun: Stuns creature with 150 hp or less."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Power Word Kill: Kills creature with 100 hp or less."
+    },
+    {
+      "type": "paragraph",
+      "text": "WATER DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Turn or destroy fire creatures as a good cleric turns undead. Rebuke, command, or bolster water creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Water Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Obscuring Mist: Fog surrounds you."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Fog Cloud: Fog obscures vision."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Water Breathing: Subjects can breathe underwater."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Control Water: Raises or lowers bodies of water."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Ice Storm: Hail deals 5d6 damage in cylinder 40 ft. across."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Cone of Cold: 1d6/level cold damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Acid Fog: Fog deals acid damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Horrid Wilting: Deals 1d6/level damage within 30 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Elemental Swarm*: Summons multiple elementals."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Cast as a water spell only."
+    }
+  ]
+}

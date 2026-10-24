@@ -1,0 +1,616 @@
+{
+  "schemaVersion": 1,
+  "edition": "3.5e",
+  "version": "SRD-3.5",
+  "sourceUrl": "https://web.archive.org/web/20160328013113id_/http://www.wizards.com/d20/files/v35/SRD.zip",
+  "sourcePage": "https://web.archive.org/web/20100201014038/http://www.wizards.com/default.asp?x=d20/article/srd35",
+  "sourceSha256": "a8ccb96c8acbe0c9f70aaa04157433bb8f71f31cfcf6c74fc32043d88bab95ea",
+  "license": "OGL-1.0a",
+  "licenseUrl": "/rules/OGL-1.0a.txt",
+  "attribution": "System Reference Document Copyright 2000–2003, Wizards of the Coast, Inc. See the included Open Game License and Section 15 copyright notice.",
+  "modifications": "RTF converted to structured text and tables; missing variant casting metadata linked to the explicitly referenced base spell.",
+  "documents": [
+    {
+      "id": "abilitiesandconditions",
+      "title": "SPECIAL ABILITIES & CONDITIONS",
+      "document": "AbilitiesandConditions.rtf",
+      "sha256": "2f57fc9358d447299746a852cfa7f216c1d3614f0a8ba53e10c690b3891d1aa5",
+      "path": "/rules/srd-3.5/abilitiesandconditions.json"
+    },
+    {
+      "id": "basics",
+      "title": "THE BASICS",
+      "document": "Basics.rtf",
+      "sha256": "5199d1f1de04b9b84f48e8d6060235dd2ab33ada0271a9a58205e6c99b1f9297",
+      "path": "/rules/srd-3.5/basics.json"
+    },
+    {
+      "id": "carryingandexploration",
+      "title": "CARRYING, MOVEMENT, & EXPLORATION",
+      "document": "CarryingandExploration.rtf",
+      "sha256": "52584465e421d86c8917cf63e6b244b55d011cdc41c705f02045132d854246be",
+      "path": "/rules/srd-3.5/carryingandexploration.json"
+    },
+    {
+      "id": "classesi",
+      "title": "CLASSES I",
+      "document": "ClassesI.rtf",
+      "sha256": "6b98a9a173b00951f0614002680f3cee7ccfdb127f73abdc3ef12dd18f4de539",
+      "path": "/rules/srd-3.5/classesi.json"
+    },
+    {
+      "id": "classesii",
+      "title": "CLASSES II",
+      "document": "ClassesII.rtf",
+      "sha256": "798f0cda84359b35bae8159a3718a112aaac7e6de6618c2f3911d1fdfc6452f4",
+      "path": "/rules/srd-3.5/classesii.json"
+    },
+    {
+      "id": "combati",
+      "title": "COMBAT I (BASICS)",
+      "document": "CombatI.rtf",
+      "sha256": "153903887d96959d7cb2d9cba4a2ef0740d43189e82e9a9d38e48399f9879ed5",
+      "path": "/rules/srd-3.5/combati.json"
+    },
+    {
+      "id": "combatii",
+      "title": "COMBAT II (MOVEMENT, MODIFIERS, SPECIAL ACTIONS)",
+      "document": "CombatII.rtf",
+      "sha256": "3d60edee550ee53d82bed28757492ebbdc81c5edf2429260d018851166865553",
+      "path": "/rules/srd-3.5/combatii.json"
+    },
+    {
+      "id": "description",
+      "title": "DESCRIPTION",
+      "document": "Description.rtf",
+      "sha256": "0655fa74a49b691d61ae0f0368974c8addadf31f8818f6a993a086822b3292c9",
+      "path": "/rules/srd-3.5/description.json"
+    },
+    {
+      "id": "divineabilitiesandfeats",
+      "title": "SALIENT DIVINE ABILITIES",
+      "document": "DivineAbilitiesandFeats.rtf",
+      "sha256": "63e2f7e09fe0da21c904aa6c7e0b965968e998c97e8b1c0fc6633a195f4eb7ab",
+      "path": "/rules/srd-3.5/divineabilitiesandfeats.json"
+    },
+    {
+      "id": "divinedomainsandspells",
+      "title": "DOMAINS AND SPELLS",
+      "document": "DivineDomainsandSpells.rtf",
+      "sha256": "d2ad1c2e0414cae8dd0e6eb24211ea2f8905e34386ff620f951003067f205461",
+      "path": "/rules/srd-3.5/divinedomainsandspells.json"
+    },
+    {
+      "id": "divineminions",
+      "title": "DIVINE MINIONS",
+      "document": "DivineMinions.rtf",
+      "sha256": "bb0026111fc840ccfdbece152a3a62dc0d32b24649066c76756d8b649760f54c",
+      "path": "/rules/srd-3.5/divineminions.json"
+    },
+    {
+      "id": "divineranksandpowers",
+      "title": "DIVINE RANKS AND POWERS",
+      "document": "DivineRanksandPowers.rtf",
+      "sha256": "20291124fc9dbe3e602ae4d1ef913a3012d8bcff17ee06977ee19e7014e04a5d",
+      "path": "/rules/srd-3.5/divineranksandpowers.json"
+    },
+    {
+      "id": "epicclasses",
+      "title": "EPIC CLASS PROGRESSIONS",
+      "document": "EpicClasses.rtf",
+      "sha256": "7891cf43ce0dc7ece5f983ef633092052330e777f1790ae9b62faeefaaf093df",
+      "path": "/rules/srd-3.5/epicclasses.json"
+    },
+    {
+      "id": "epicfeats",
+      "title": "EPIC FEATS",
+      "document": "EpicFeats.rtf",
+      "sha256": "e85e7da73c26acd2d06ec2e5afff27b006abd95e4d123fbcedccfe45efad21bc",
+      "path": "/rules/srd-3.5/epicfeats.json"
+    },
+    {
+      "id": "epiclevelbasics",
+      "title": "EPIC LEVEL BASICS",
+      "document": "EpicLevelBasics.rtf",
+      "sha256": "0abcfeae175c61e4453fa1576f8372b1853b50e271c5d8ef8088ba7dd3769f76",
+      "path": "/rules/srd-3.5/epiclevelbasics.json"
+    },
+    {
+      "id": "epicmagicitems1",
+      "title": "EPIC MAGIC ITEMS 1",
+      "document": "EpicMagicItems1.rtf",
+      "sha256": "421bd808633b5aecf9203dc632a22ae410b5467d93d61aaa37881d78b18d5ef7",
+      "path": "/rules/srd-3.5/epicmagicitems1.json"
+    },
+    {
+      "id": "epicmagicitems2",
+      "title": "EPIC MAGIC ITEMS 2",
+      "document": "EpicMagicItems2.rtf",
+      "sha256": "23cc0dae52762d41c89dfa8070dbba9a01a719a064495d2361c2411272fd0a64",
+      "path": "/rules/srd-3.5/epicmagicitems2.json"
+    },
+    {
+      "id": "epicmonsters-a-e",
+      "title": "EPIC MONSTERS (A-E)",
+      "document": "EpicMonsters(A-E).rtf",
+      "sha256": "8808809cc8710bc98d823156e7f46c2ffe928e04fc4f7277ce9c423be099d508",
+      "path": "/rules/srd-3.5/epicmonsters-a-e.json"
+    },
+    {
+      "id": "epicmonsters-g-w",
+      "title": "EPIC MONSTERS (G-W)",
+      "document": "EpicMonsters(G-W).rtf",
+      "sha256": "e792ff0831bbec597abbf53b3f351dc77beb592c60cf71fa9f4a290e31f35b5c",
+      "path": "/rules/srd-3.5/epicmonsters-g-w.json"
+    },
+    {
+      "id": "epicobstacles",
+      "title": "EPIC OBSTACLES",
+      "document": "EpicObstacles.rtf",
+      "sha256": "d2815b3d08e23aa6c3377df1a0bd266a740d31714e352ef00d95c98eefb4a6c9",
+      "path": "/rules/srd-3.5/epicobstacles.json"
+    },
+    {
+      "id": "epicprestigeclasses",
+      "title": "EPIC PRESTIGE CLASS PROGRESSIONS",
+      "document": "EpicPrestigeClasses.rtf",
+      "sha256": "71a36cf9d17b94d7edd09611001d72cc01f7711be2a5f454aa05a6c870b80516",
+      "path": "/rules/srd-3.5/epicprestigeclasses.json"
+    },
+    {
+      "id": "epicskills",
+      "title": "EPIC SKILLS",
+      "document": "EpicSkills.rtf",
+      "sha256": "b422e4562d9554ca21754b5bfb94cdd712de7d365b52499f57fb7e7ce0de20f0",
+      "path": "/rules/srd-3.5/epicskills.json"
+    },
+    {
+      "id": "epicspells",
+      "title": "EPIC SPELLS",
+      "document": "EpicSpells.rtf",
+      "sha256": "b07938804c5097d0cb26b9b2340cfafbeef17f0c8956429f6788bd0ebbc697c4",
+      "path": "/rules/srd-3.5/epicspells.json"
+    },
+    {
+      "id": "equipment",
+      "title": "EQUIPMENT",
+      "document": "Equipment.rtf",
+      "sha256": "8fdd7eea6eb6dc61fb73041e7ea5d769c06d71385475d5d0ab3a96e7610f0a0c",
+      "path": "/rules/srd-3.5/equipment.json"
+    },
+    {
+      "id": "feats",
+      "title": "FEATS",
+      "document": "Feats.rtf",
+      "sha256": "e6089581f16d1fcfe0fa1f6f61f19378b3c2cd701b8d86931b8aac26adc4f6a6",
+      "path": "/rules/srd-3.5/feats.json"
+    },
+    {
+      "id": "improving-monsters",
+      "title": "IMPROVING MONSTERS",
+      "document": "Improving Monsters.rtf",
+      "sha256": "504ab7b37601156bdafe9b1bdacb9ceceaf5251fb12e987cc8c58911ff7567a7",
+      "path": "/rules/srd-3.5/improving-monsters.json"
+    },
+    {
+      "id": "legal",
+      "title": "LEGAL INFORMATION",
+      "document": "Legal.rtf",
+      "sha256": "ca2f95c723c1e7c0cc7c46ec11a1ab026cc4a4a3be05d2b7beac38a42c9e81c4",
+      "path": "/rules/srd-3.5/legal.json"
+    },
+    {
+      "id": "magicitemsi",
+      "title": "MAGIC ITEMS I (BASICS & CREATION)",
+      "document": "MagicItemsI.rtf",
+      "sha256": "a30ee29d5d385e27a393130221e6c7b4604f1085318dd4d2d829de0a3ccff0cf",
+      "path": "/rules/srd-3.5/magicitemsi.json"
+    },
+    {
+      "id": "magicitemsii",
+      "title": "MAGIC ITEMS II (ARMOR & WEAPONS)",
+      "document": "MagicItemsII.rtf",
+      "sha256": "3ce2334b8c8c91dcf056e456782db3b6c9aa6d899212fe2b5729842144d17f94",
+      "path": "/rules/srd-3.5/magicitemsii.json"
+    },
+    {
+      "id": "magicitemsiii",
+      "title": "MAGIC ITEMS III (POTIONS, RINGS, & RODS)",
+      "document": "MagicItemsIII.rtf",
+      "sha256": "52e6c67f4632cf9d87e13b9fca3122319db656e7a4826d41e96c203f228c4fad",
+      "path": "/rules/srd-3.5/magicitemsiii.json"
+    },
+    {
+      "id": "magicitemsiv",
+      "title": "MAGIC ITEMS IV (SCROLLS, STAFFS, & WANDS)",
+      "document": "MagicItemsIV.rtf",
+      "sha256": "62a182dcd3cd9fa2fe055e6df781365b44867d77f6335b53f80da9ba5da2da32",
+      "path": "/rules/srd-3.5/magicitemsiv.json"
+    },
+    {
+      "id": "magicitemsv",
+      "title": "MAGIC ITEMS V (WONDROUS ITEMS)",
+      "document": "MagicItemsV.rtf",
+      "sha256": "7878d6080ed79c3f8b42c1c2108b6c8bd251488291f8012b55d4d070ee467adb",
+      "path": "/rules/srd-3.5/magicitemsv.json"
+    },
+    {
+      "id": "magicitemsvi",
+      "title": "MAGIC ITEMS VI (INTELLIGENT, CURSED, & ARTIFACTS)",
+      "document": "MagicItemsVI.rtf",
+      "sha256": "0f705ac3cc4aa67f4474610b4b8143e9d6da647c17c591770222ca79dd38961f",
+      "path": "/rules/srd-3.5/magicitemsvi.json"
+    },
+    {
+      "id": "magicoverview",
+      "title": "MAGIC OVERVIEW",
+      "document": "MagicOverview.rtf",
+      "sha256": "4c824e2ab9fab0f420258a66e2523483f8e4da766f0ce3bac6cf51a7505b9e70",
+      "path": "/rules/srd-3.5/magicoverview.json"
+    },
+    {
+      "id": "monsterfeats",
+      "title": "MONSTER FEATS",
+      "document": "MonsterFeats.rtf",
+      "sha256": "c8b2ceaf8da45cbf4029a29966b67d7df42b4d05a69d761a220899a778b49a55",
+      "path": "/rules/srd-3.5/monsterfeats.json"
+    },
+    {
+      "id": "monstersanimals",
+      "title": "MONSTERS (ANIMALS)",
+      "document": "MonstersAnimals.rtf",
+      "sha256": "1093f05fe6208f90475386518d27cfd67c69baddad594acb06385bb372a871e2",
+      "path": "/rules/srd-3.5/monstersanimals.json"
+    },
+    {
+      "id": "monstersb-c",
+      "title": "MONSTERS (B-C)",
+      "document": "MonstersB-C.rtf",
+      "sha256": "830f5e3831fb9345f3dd45a4f5221fb71b3a41ecb64c4e94e06080feb172f78c",
+      "path": "/rules/srd-3.5/monstersb-c.json"
+    },
+    {
+      "id": "monstersd-de",
+      "title": "MONSTERS (D-De)",
+      "document": "MonstersD-De.rtf",
+      "sha256": "05a0537f473ab08bfe4fbe13e6d7bfa40d40415da9d9649a8aeaf9736401890d",
+      "path": "/rules/srd-3.5/monstersd-de.json"
+    },
+    {
+      "id": "monstersdi-do",
+      "title": "MONSTERS (Di-Do)",
+      "document": "MonstersDi-Do.rtf",
+      "sha256": "533b046406006882de5414a4a1067df80fdde4695c6314993d3afbf4eb765141",
+      "path": "/rules/srd-3.5/monstersdi-do.json"
+    },
+    {
+      "id": "monstersdr-dw",
+      "title": "MONSTERS (Dr-Dw)",
+      "document": "MonstersDr-Dw.rtf",
+      "sha256": "61f95bcb08870ba7f638d2a934a1bde6d4f396f011a1b3c8c26a3c1205aeaeef",
+      "path": "/rules/srd-3.5/monstersdr-dw.json"
+    },
+    {
+      "id": "monsterse-f",
+      "title": "MONSTERS (E-F)",
+      "document": "MonstersE-F.rtf",
+      "sha256": "342c690541dc6afe04239e1df08a09b53a2a3e9b6fad8907293488888c7aeea5",
+      "path": "/rules/srd-3.5/monsterse-f.json"
+    },
+    {
+      "id": "monstersg",
+      "title": "MONSTERS (G)",
+      "document": "MonstersG.rtf",
+      "sha256": "4d80edbdc9b7ab804505a347faa5c98fbe822502935742a7e7e61754c7061cf9",
+      "path": "/rules/srd-3.5/monstersg.json"
+    },
+    {
+      "id": "monstersh-i",
+      "title": "MONSTERS (H-I)",
+      "document": "MonstersH-I.rtf",
+      "sha256": "c4fd6c869bc9b02603dcc7ebcd226ada9a41f75f4ffc2f19fc4d0747d099a095",
+      "path": "/rules/srd-3.5/monstersh-i.json"
+    },
+    {
+      "id": "monstersintro-a",
+      "title": "MONSTERS (INTRO-A)",
+      "document": "MonstersIntro-A.rtf",
+      "sha256": "0585baaa46c74aa0fc0a9f7bf19db182a617eafeabaeffe23bddaec3978d128c",
+      "path": "/rules/srd-3.5/monstersintro-a.json"
+    },
+    {
+      "id": "monstersk-l",
+      "title": "MONSTERS (K-L)",
+      "document": "MonstersK-L.rtf",
+      "sha256": "eb3ebe216db1857c74069cc58d9449dbf03bd5306c8412c817b0544d4ad07527",
+      "path": "/rules/srd-3.5/monstersk-l.json"
+    },
+    {
+      "id": "monstersm-n",
+      "title": "MONSTERS (M-N)",
+      "document": "MonstersM-N.rtf",
+      "sha256": "2dd062a43c5b6e6d6a6b0c6687afaf0a96cba6b1af7bcf2cfe1d57b56a1926aa",
+      "path": "/rules/srd-3.5/monstersm-n.json"
+    },
+    {
+      "id": "monsterso-r",
+      "title": "MONSTERS (O-R)",
+      "document": "MonstersO-R.rtf",
+      "sha256": "a55847ef48d93ab4cfc7651b5e7af29cab5d569045c0b3028fa3345b185be1a8",
+      "path": "/rules/srd-3.5/monsterso-r.json"
+    },
+    {
+      "id": "monsterss",
+      "title": "MONSTERS (S)",
+      "document": "MonstersS.rtf",
+      "sha256": "c2818165ea35b7c6adaef9a3652b82b68921c31ae5fac40a7e904dedd5ececa8",
+      "path": "/rules/srd-3.5/monsterss.json"
+    },
+    {
+      "id": "monsterst-z",
+      "title": "MONSTERS (T-Z)",
+      "document": "MonstersT-Z.rtf",
+      "sha256": "ec34336e265f174b12e3738ed151dbed6e4615e45646ba0d0acc5124b6e25042",
+      "path": "/rules/srd-3.5/monsterst-z.json"
+    },
+    {
+      "id": "monstersvermin",
+      "title": "MONSTERS (VERMIN)",
+      "document": "MonstersVermin.rtf",
+      "sha256": "5b872eb8e41b88afad53897eec3ff36a2e72bf6d485fb835f0a67cc623bf85f6",
+      "path": "/rules/srd-3.5/monstersvermin.json"
+    },
+    {
+      "id": "monstersasraces",
+      "title": "MONSTERS AS RACES",
+      "document": "MonstersasRaces.rtf",
+      "sha256": "d0efa602f980fd5db91548c203d7e04688904ba21163bd9d9e6dede3ade44c37",
+      "path": "/rules/srd-3.5/monstersasraces.json"
+    },
+    {
+      "id": "npcclasses",
+      "title": "NPC CLASSES",
+      "document": "NPCClasses.rtf",
+      "sha256": "0979fff0f47e3294aee8040a29bbfe4c92877e91dcaec6fb73f3e6a74f26b4db",
+      "path": "/rules/srd-3.5/npcclasses.json"
+    },
+    {
+      "id": "planes",
+      "title": "PLANES",
+      "document": "Planes.rtf",
+      "sha256": "f1d85aec101b82fa88fc62d87f1db9ded87a95c29a378bdffb89fb71d36149cf",
+      "path": "/rules/srd-3.5/planes.json"
+    },
+    {
+      "id": "powerlist",
+      "title": "POWER LIST",
+      "document": "PowerList.rtf",
+      "sha256": "a1a3e6f9b848f139021fb79884ae7e94f82648a1e3e56d2577b2d6c15621e5c1",
+      "path": "/rules/srd-3.5/powerlist.json"
+    },
+    {
+      "id": "powersoverview",
+      "title": "PSIONIC POWERS OVERVIEW",
+      "document": "PowersOverview.rtf",
+      "sha256": "639f80a15cef14f6a667e87d1eb249341fb296d0a7dcc893f05039c290c9fba2",
+      "path": "/rules/srd-3.5/powersoverview.json"
+    },
+    {
+      "id": "prestigeclasses",
+      "title": "PRESTIGE CLASSES",
+      "document": "PrestigeClasses.rtf",
+      "sha256": "e06d8f2af34d2a2e187e56861c7139b5396048fccb00e9851013636c3ae7d98c",
+      "path": "/rules/srd-3.5/prestigeclasses.json"
+    },
+    {
+      "id": "psionicclasses",
+      "title": "PSIONIC CLASSES",
+      "document": "PsionicClasses.rtf",
+      "sha256": "54948d912e0abf3c44694ec7b0861ea9adedcd2728a475abae36ca2ae107bd96",
+      "path": "/rules/srd-3.5/psionicclasses.json"
+    },
+    {
+      "id": "psionicitems",
+      "title": "PSIONIC ITEMS",
+      "document": "PsionicItems.rtf",
+      "sha256": "f1e7fab3599cd98afb262e04bd9292560b5743c8c9237520d6160cc3b2ee44e7",
+      "path": "/rules/srd-3.5/psionicitems.json"
+    },
+    {
+      "id": "psionicmonsters",
+      "title": "PSIONIC MONSTERS",
+      "document": "PsionicMonsters.rtf",
+      "sha256": "321daacafa122d64fd18fc9f194cddad07949060e960278fc551a99c971e5772",
+      "path": "/rules/srd-3.5/psionicmonsters.json"
+    },
+    {
+      "id": "psionicpowersa-c",
+      "title": "PSIONIC POWERS (A-C)",
+      "document": "PsionicPowersA-C.rtf",
+      "sha256": "0d29303aaa9771a4e6906d4ce6c7800f306437139f4555d72a08eab7c52ec64d",
+      "path": "/rules/srd-3.5/psionicpowersa-c.json"
+    },
+    {
+      "id": "psionicpowersd-f",
+      "title": "PSIONIC POWERS (D-F)",
+      "document": "PsionicPowersD-F.rtf",
+      "sha256": "467502ade244079d2dc3aa0126c04ee43e699ce0ee59751d86bc7bf2a3be9370",
+      "path": "/rules/srd-3.5/psionicpowersd-f.json"
+    },
+    {
+      "id": "psionicpowersg-p",
+      "title": "PSIONIC POWERS (G-P)",
+      "document": "PsionicPowersG-P.rtf",
+      "sha256": "de7e24ef802ea14075a1fd879fdaf1eda1e922ce23aa8350cc58084a8024f6f0",
+      "path": "/rules/srd-3.5/psionicpowersg-p.json"
+    },
+    {
+      "id": "psionicpowersq-w",
+      "title": "PSIONIC POWERS (Q-W)",
+      "document": "PsionicPowersQ-W.rtf",
+      "sha256": "f3c273ca6f6d0cc01e6bd63b2c9539d79f82ff1131a3ea4c879a5a0212d91550",
+      "path": "/rules/srd-3.5/psionicpowersq-w.json"
+    },
+    {
+      "id": "psionicraces",
+      "title": "PSIONIC RACES",
+      "document": "PsionicRaces.rtf",
+      "sha256": "60f785bdb8dc3871d49cbad1bdb4169a76fef6068d4bb837207e54ebab7f6321",
+      "path": "/rules/srd-3.5/psionicraces.json"
+    },
+    {
+      "id": "psionicskills",
+      "title": "PSIONIC SKILLS",
+      "document": "PsionicSkills.rtf",
+      "sha256": "3a9a4787ffa42e1e5f173a8af72068167efa4a27591235465a823694f65167da",
+      "path": "/rules/srd-3.5/psionicskills.json"
+    },
+    {
+      "id": "psionicspells",
+      "title": "PSIONIC SPELLS",
+      "document": "PsionicSpells.rtf",
+      "sha256": "1a1f8df1bcadbd4fce224ae40b94321a7c8f842240cbb2a6d426ebcc67c71e5b",
+      "path": "/rules/srd-3.5/psionicspells.json"
+    },
+    {
+      "id": "psionicsfeats",
+      "title": "PSIONIC FEATS",
+      "document": "PsionicsFeats.rtf",
+      "sha256": "15becf6af04872fbfd81e1f30ca0c28d4a26356f5a0a727de646a6d3e58e4481",
+      "path": "/rules/srd-3.5/psionicsfeats.json"
+    },
+    {
+      "id": "races",
+      "title": "RACES",
+      "document": "Races.rtf",
+      "sha256": "8778ab84a9bfaba25d17058cc1317e52c585647fc282317a9d06a2d02b8a4aab",
+      "path": "/rules/srd-3.5/races.json"
+    },
+    {
+      "id": "skillsi",
+      "title": "SKILLS I",
+      "document": "SkillsI.rtf",
+      "sha256": "afb6c11a7625589ea1139f9c6601b84929b27e58448fe7b7375a38df18823936",
+      "path": "/rules/srd-3.5/skillsi.json"
+    },
+    {
+      "id": "skillsii",
+      "title": "SKILLS II",
+      "document": "SkillsII.rtf",
+      "sha256": "c6b44d47334b1c9eae2112301f2f3f001a867aa87b57b523b3b8ee0424c81a7e",
+      "path": "/rules/srd-3.5/skillsii.json"
+    },
+    {
+      "id": "specialmaterials",
+      "title": "SPECIAL MATERIALS",
+      "document": "SpecialMaterials.rtf",
+      "sha256": "8778687761b8ebb6fac93b4a2703ab61f9f08469202ab5a259921844df673aab",
+      "path": "/rules/srd-3.5/specialmaterials.json"
+    },
+    {
+      "id": "spelllisti",
+      "title": "SPELL LIST I",
+      "document": "SpellListI.rtf",
+      "sha256": "0aa7ca33b2296a66779d0d6e8c117628238b138b411832f00721faa367620872",
+      "path": "/rules/srd-3.5/spelllisti.json"
+    },
+    {
+      "id": "spelllistii",
+      "title": "SPELL LIST II",
+      "document": "SpellListII.rtf",
+      "sha256": "527c859a07abfda7d2f241757fb83612d5e10f8f8a5d564f9aed5a9c4309f60c",
+      "path": "/rules/srd-3.5/spelllistii.json"
+    },
+    {
+      "id": "spellsa-b",
+      "title": "SPELLS (A-B)",
+      "document": "SpellsA-B.rtf",
+      "sha256": "e6b096cd28da7bfdcc000c37ce648d0260f629badf4ccf781656ab822a95e1da",
+      "path": "/rules/srd-3.5/spellsa-b.json"
+    },
+    {
+      "id": "spellsc",
+      "title": "SPELLS (C)",
+      "document": "SpellsC.rtf",
+      "sha256": "97090bf4cfaa31852a7283ac0e53690c6cdbaaa428c447890ff7bc7c86120c56",
+      "path": "/rules/srd-3.5/spellsc.json"
+    },
+    {
+      "id": "spellsd-e",
+      "title": "SPELLS (D-E)",
+      "document": "SpellsD-E.rtf",
+      "sha256": "8543ac4b6623f016798f589d1c350fad45c02ead7ecfef0ec75ab58e9168cde5",
+      "path": "/rules/srd-3.5/spellsd-e.json"
+    },
+    {
+      "id": "spellsf-g",
+      "title": "SPELLS (F-G)",
+      "document": "SpellsF-G.rtf",
+      "sha256": "3ac7389e8023f9995fbaa86075e15e67d23b9d6ed91fe8203ba5757a5277d3d3",
+      "path": "/rules/srd-3.5/spellsf-g.json"
+    },
+    {
+      "id": "spellsh-l",
+      "title": "SPELLS (H-L)",
+      "document": "SpellsH-L.rtf",
+      "sha256": "3d14ba6972bf258a3a9b2066b37c037ec4b937dbcb0dc01d8c2a64e52b0b46af",
+      "path": "/rules/srd-3.5/spellsh-l.json"
+    },
+    {
+      "id": "spellsm-o",
+      "title": "SPELLS (M-O)",
+      "document": "SpellsM-O.rtf",
+      "sha256": "bbfb5904c84f07e5869976027cd15d347d8ef38045f4e9132e4ad4c0c3a45449",
+      "path": "/rules/srd-3.5/spellsm-o.json"
+    },
+    {
+      "id": "spellsp-r",
+      "title": "SPELLS (P-R)",
+      "document": "SpellsP-R.rtf",
+      "sha256": "5a364ec95b01710c5c5c110ee19689d26e33961e7cdaa3446858f656ed70bdf8",
+      "path": "/rules/srd-3.5/spellsp-r.json"
+    },
+    {
+      "id": "spellss",
+      "title": "SPELLS (S)",
+      "document": "SpellsS.rtf",
+      "sha256": "cc9e7aa3ad46f6093564bc1dacdcb3d7652b35e19447b0d3471b3aa411879487",
+      "path": "/rules/srd-3.5/spellss.json"
+    },
+    {
+      "id": "spellst-z",
+      "title": "SPELLS (T-Z)",
+      "document": "SpellsT-Z.rtf",
+      "sha256": "51f92b414a369652bdaa11876ba70ef06c5e838e164e6738d6f8c6b5722b7f33",
+      "path": "/rules/srd-3.5/spellst-z.json"
+    },
+    {
+      "id": "traps",
+      "title": "TRAPS",
+      "document": "Traps.rtf",
+      "sha256": "c8458b45504a3ea8845609c99985a3ae329c05135126b791b4bed5a506c29844",
+      "path": "/rules/srd-3.5/traps.json"
+    },
+    {
+      "id": "treasure",
+      "title": "TREASURE",
+      "document": "Treasure.rtf",
+      "sha256": "40f6dbb84a4d259e387a07df3ad61c18390c2352529927fddd605acec0583ea3",
+      "path": "/rules/srd-3.5/treasure.json"
+    },
+    {
+      "id": "typessubtypesabilities",
+      "title": "TYPES, SUBTYPES, & SPECIAL ABILITIES",
+      "document": "TypesSubtypesAbilities.rtf",
+      "sha256": "55a8375ee6c8e65cff00ec82770122eae9dca63996980e5abab9114dc13e8dfc",
+      "path": "/rules/srd-3.5/typessubtypesabilities.json"
+    },
+    {
+      "id": "wildernessandenvironment",
+      "title": "WILDERNESS, WEATHER, & ENVIRONMENT",
+      "document": "WildernessandEnvironment.rtf",
+      "sha256": "bd599f72026f856d4ccf4075004b26eaea293678181ea830588e8dae23f2bc0a",
+      "path": "/rules/srd-3.5/wildernessandenvironment.json"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+import {spawn} from 'node:child_process';
+import {resolve,join} from 'node:path';
+import {existsSync} from 'node:fs';
+import {StringDecoder} from 'node:string_decoder';
+const audio=process.argv[2],model=process.argv[3]??process.env.RIVET_SPEECH_MODEL_DIR;
+if(!audio||!model)throw new Error('Usage: node scripts/benchmark-capture.mjs recording.wav /absolute/path/to/vosk-model-small-en-us-0.15');
+const runtime=resolve('dist-electron'),helper=join(runtime,process.platform==='win32'?'rivet-capture.exe':'rivet-capture'),library=join(runtime,process.platform==='darwin'?'libvosk.dylib':process.platform==='win32'?'libvosk.dll':'libvosk.so');
+if(!existsSync(helper))throw new Error('Build Rivet Desktop before running the benchmark.');
+const child=spawn(helper,['--file',library,resolve(model),resolve(audio)],{env:{...process.env,OPENBLAS_NUM_THREADS:'1',OMP_NUM_THREADS:'1',VECLIB_MAXIMUM_THREADS:'1'},stdio:['ignore','pipe','inherit']});
+let metrics=null,segments=0,uncertain=0,buffer='';const decoder=new StringDecoder('utf8');
+child.stdout.on('data',data=>{buffer+=decoder.write(data);if(buffer.length>128*1024){child.kill();throw new Error('Speech helper message exceeded its limit.');}let end;while((end=buffer.indexOf('\n'))>=0){const event=JSON.parse(buffer.slice(0,end));buffer=buffer.slice(end+1);if(event.type==='benchmark')metrics=event;else if(event.type==='error')throw new Error(event.message);else if(event.type==='speech'&&event.result.text){segments++;if(event.result.result?.some(word=>word.conf<0.6))uncertain++;}}});
+await new Promise((resolve,reject)=>{child.once('error',reject);child.once('exit',code=>code===0?resolve():reject(new Error(`Speech helper exited ${code}`)));});
+if(!metrics||!metrics.audioMs)throw new Error('No benchmark measurements returned.');
+const memoryMiB=metrics.peakResidentBytes/1024/1024,cpuPercentOfOneCore=100*metrics.cpuMs/metrics.audioMs;
+console.log(JSON.stringify({platform:process.platform,architecture:process.arch,audioSeconds:metrics.audioMs/1000,peakResidentMiB:Number(memoryMiB.toFixed(1)),cpuPercentOfOneCore:Number(cpuPercentOfOneCore.toFixed(1)),segments,uncertainSegments:uncertain,passesResourceTargets:memoryMiB<=400&&cpuPercentOfOneCore<25,note:'File-decode resource measurement, including model startup. Does not measure microphone capture, battery energy, event accuracy, or another device.'},null,2));
+if(memoryMiB>400||cpuPercentOfOneCore>=25)process.exitCode=1;

@@ -1,0 +1,622 @@
+{
+  "schemaVersion": 1,
+  "edition": "3.5e",
+  "version": "SRD-3.5",
+  "id": "psionicspells",
+  "title": "PSIONIC SPELLS",
+  "document": "PsionicSpells.rtf",
+  "sourceUrl": "https://web.archive.org/web/20160328013113id_/http://www.wizards.com/d20/files/v35/SRD.zip",
+  "sourceSha256": "1a1f8df1bcadbd4fce224ae40b94321a7c8f842240cbb2a6d426ebcc67c71e5b",
+  "license": "OGL-1.0a",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a."
+    },
+    {
+      "type": "paragraph",
+      "text": "PSIONIC SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Listed below are arcane and divine spells that interact with psionics as well as a cleric domain, Mind."
+    },
+    {
+      "type": "paragraph",
+      "text": "BARD SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "2nd-Level Bard Spell"
+    },
+    {
+      "type": "paragraph",
+      "text": "Glossolalia: Cone-shaped shriek distracts smart foes, makes concentrating difficult."
+    },
+    {
+      "type": "paragraph",
+      "text": "CLERIC SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "3rd-Level Cleric Spell"
+    },
+    {
+      "type": "paragraph",
+      "text": "Telepathic Bond, Lesser: As telepathic bond, but you and one other creature."
+    },
+    {
+      "type": "paragraph",
+      "text": "4th-Level Cleric Spell"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dweomer of Transference: Convert spellcasting into psionic power points."
+    },
+    {
+      "type": "paragraph",
+      "text": "5th-Level Cleric Spell"
+    },
+    {
+      "type": "paragraph",
+      "text": "Psychic Turmoil: Invisible field leeches psionic power points away."
+    },
+    {
+      "type": "paragraph",
+      "text": "7th-Level Cleric Spell"
+    },
+    {
+      "type": "paragraph",
+      "text": "Psychic Turmoil, Greater: As psychic turmoil, but you gain power points as temporary hp."
+    },
+    {
+      "type": "paragraph",
+      "text": "8th-Level Cleric Spell"
+    },
+    {
+      "type": "paragraph",
+      "text": "Brain Spider: Listen to thoughts of up to eight other creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "MIND DOMAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Granted Power: Gain a +2 bonus on Bluff, Diplomacy, and Sense Motive checks. Gain a +2 bonus on Will saves against enchantment spells and effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mind Domain Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Comprehend Languages: You understand all spoken and written languages."
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Detect Thoughts: Allows “listening” to surface thoughts."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Telepathic Bond, Lesser: Link with subject within 30 ft. for 10 min./level."
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Discern Lies: Reveals deliberate falsehoods."
+    },
+    {
+      "type": "paragraph",
+      "text": "5 Telepathic Bond: Link lets allies communicate."
+    },
+    {
+      "type": "paragraph",
+      "text": "6 Probe Thoughts: Read subject’s memories, one question/ round."
+    },
+    {
+      "type": "paragraph",
+      "text": "7 Brain Spider: Eavesdrop on thoughts of up to eight other creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Mind Blank: Subject is immune to mental/emotional magic and scrying."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Weird: Fearful illusion affects all within 30 ft., either killing or dealing 3d6 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "SORCERER/WIZARD SPELLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "3rd-Level Sorcerer/Wizard Spell"
+    },
+    {
+      "type": "paragraph",
+      "text": "Telepathic Bond, Lesser: As telepathic bond, but you and one other creature."
+    },
+    {
+      "type": "paragraph",
+      "text": "4th-Level Sorcerer/Wizard Spell"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dweomer of Transference: Convert spellcasting into psionic power points."
+    },
+    {
+      "type": "paragraph",
+      "text": "5th-Level Sorcerer/Wizard Spell"
+    },
+    {
+      "type": "paragraph",
+      "text": "Psychic Turmoil: Invisible field leeches psionic power points away."
+    },
+    {
+      "type": "paragraph",
+      "text": "6th-Level Sorcerer/Wizard Spells"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mental PinnacleM: You gain the mental powers of a psion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Probe Thoughts: Read subject’s memories, one question/ round."
+    },
+    {
+      "type": "paragraph",
+      "text": "7th-Level Sorcerer/Wizard Spell"
+    },
+    {
+      "type": "paragraph",
+      "text": "Psychic Turmoil, Greater: As psychic turmoil, but you gain power points as temporary hit points."
+    },
+    {
+      "type": "paragraph",
+      "text": "SPELL DESCRIPTIONS"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following spell descriptions are presented in alphabetical order."
+    },
+    {
+      "type": "paragraph",
+      "text": "Brain Spider"
+    },
+    {
+      "type": "paragraph",
+      "text": "Divination [Mind-Affecting]"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Cleric 8, Mind 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S, M, DF"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 1 round"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Long (400 ft. + 40 ft./level)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Targets: Up to eight living creatures"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 1 min./level"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: Will negates"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Yes"
+    },
+    {
+      "type": "paragraph",
+      "text": "This spell allows you to eavesdrop as a standard action on the thoughts of up to eight other creatures at once, hearing as desired:"
+    },
+    {
+      "type": "paragraph",
+      "text": "• Individual trains of thought in whatever order you desire."
+    },
+    {
+      "type": "paragraph",
+      "text": "• Information from all minds about one particular topic, thing, or being, one nugget of information per caster level."
+    },
+    {
+      "type": "paragraph",
+      "text": "• A study of the thoughts and memories of one creature of the group in detail."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once per round, if you do not perform a detailed study of one creature’s mind, you can attempt (as a standard action) to implant a suggestion in the mind of any one of the affected creatures. The creature can make another Will saving throw to resist the suggestion, using the save DC of the brain spider spell. (Creatures with special resistance to enchantment spells can use this resistance to keep from being affected by the suggestion.) Success on this saving throw does not negate the other effects of the brain spider spell for that creature."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can affect all intelligent beings of your choice within range (up to the limit of eight), beginning with known or named beings. Language is not a barrier, and you need not personally know the beings The spell cannot reach those who make a successful Will save."
+    },
+    {
+      "type": "paragraph",
+      "text": "Material Component: A spider of any size or kind. It can be dead, but must still have all eight legs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dweomer of Transference"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evocation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Cleric 4, sorcerer/wizard 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 1 minute"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Close (25 ft. + 5 ft./2 levels)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Target: One willing psionic creature"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 1 round/level"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: Will negates (harmless)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Yes (harmless)"
+    },
+    {
+      "type": "paragraph",
+      "text": "With this spell, you form a radiating corona around the head of a psionic ally, then convert some of your spells into psionic power points. When you finish casting dweomer of transference, a red-orange glow surrounds the psionic creature’s head. For the duration of the spell, any spells cast at the subject don’t have their usual effect, instead converting themselves harmlessly into psionic energy that the subject can use as energy for psionic powers. You can cast any spell you like at the subject, even area spells, effect spells, and spells for whom the subject would ordinarily not be a legitimate target. The spells don’t do anything other than provide the subject with power points, but you must still cast them normally, obeying the component and range requirements listed in the description of each spell."
+    },
+    {
+      "type": "paragraph",
+      "text": "For each spell you cast into the dweomer of transference, the psionic creature gets temporary power points, according to the following table. The transference isn’t perfectly efficient. The temporary power points acquired through a dweomer of transference dissipate after 1 hour if they haven’t already been spent."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Spell Level",
+          "Power Points Acquired"
+        ],
+        [
+          "0",
+          "0"
+        ],
+        [
+          "1st",
+          "1"
+        ],
+        [
+          "2nd",
+          "2"
+        ],
+        [
+          "3rd",
+          "4"
+        ],
+        [
+          "4th",
+          "6"
+        ],
+        [
+          "5th",
+          "8"
+        ],
+        [
+          "6th",
+          "10"
+        ],
+        [
+          "7th",
+          "12"
+        ],
+        [
+          "8th",
+          "14"
+        ],
+        [
+          "9th",
+          "16"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Glossolalia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evocation [Sonic, Mind-Affecting]"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Bard 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 1 standard action"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: 60 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Area: Cone-shaped burst"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: Instantaneous"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: Fortitude partial; see text"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Yes"
+    },
+    {
+      "type": "paragraph",
+      "text": "You utter shrieks of nonsense and gibberish that thinking creatures find distracting and confusing. The spell affects only creatures with Intelligence scores of 3 or higher. Any such creatures within the spell’s area must succeed on Fortitude saves or be stunned for 1 round (if they have Intelligence scores of 20 or higher), dazed for 1 round (if they have Intelligence scores between 10 and 19), or shaken for 1 round (if they have Intelligence scores between 3 and 9). In addition, a creature within the spell’s area loses any psionic focus it might have had and takes a –4 penalty on Concentration checks for 1 round. These effects happen whether or not the creature succeeded on its save."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mental Pinnacle"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transmutation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Sorcerer/wizard 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S, M"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 1 standard action"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Personal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Target: You"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 1 round/level"
+    },
+    {
+      "type": "paragraph",
+      "text": "For a brief time, you achieve the mental dominance of a powerful psion, able to lash out at enemies using only the power of your mind. Your revel in your new mental powers to the point that you disdain using spells, even in the form of effects from magic items. You gain a +4 enhancement bonus to Intelligence and Wisdom, 3 power points per caster level, and access to the following powers."
+    },
+    {
+      "type": "paragraph",
+      "text": "• Mind ThrustA: Deal 1d10 damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "• Ego WhipA: Deal 1d4 Cha damage and daze for 1 round."
+    },
+    {
+      "type": "paragraph",
+      "text": "• Psionic BlastA: Stun creatures in 30-ft. cone for 1 round."
+    },
+    {
+      "type": "paragraph",
+      "text": "• Id Insinuation: Swift tendrils of thought disrupt and confuse your target."
+    },
+    {
+      "type": "paragraph",
+      "text": "• Psychic CrushA: Brutally crush subject’s mental essence, reducing subject to –1 hit points."
+    },
+    {
+      "type": "paragraph",
+      "text": "You manifest the powers as a psion of your caster level does, creating displays as described in each power’s description. You lose your spellcasting ability, including your ability to use spell activation or spell completion magic items, just as if those spells were no longer on your class list. For the duration of this spell, you use magic items and psionic items as if you were a psion with only the five powers given above on your class list."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any unspent power points dissipate when the spell ends."
+    },
+    {
+      "type": "paragraph",
+      "text": "Material Component: A potion of fox’s cunning, which you drink (its effect is overridden by the effect of this spell)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Probe Thoughts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Divination [Mind-Affecting]"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Mind 6, Wiz/Sor 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 1 minute"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Close (25 ft. + 5 ft./2 levels)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Target: One living creature"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: Concentration"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: Fortitude negates; see text"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Yes"
+    },
+    {
+      "type": "paragraph",
+      "text": "All the subject’s memories and knowledge are accessible to you, ranging from memories deep below the surface to those still easily called to mind. You can learn the answer to one question per round, to the best of the subject’s knowledge. You can also probe a sleeping subject, though the subject may make a Will save against the DC of the probe thoughts spell to wake after each question. Subjects who do not wish to be probed can attempt to move beyond the power’s range, unless somehow hindered. You pose the questions telepathically, and the answers to those questions are imparted directly to your mind. You and the target do not need to speak the same language, though less intelligent creatures may yield up only appropriate visual images in answer to your questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psychic Turmoil"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abjuration"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Cleric 5, sorcerer/wizard 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S, M"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 1 standard action"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: Close (25 ft. + 5 ft./2 levels)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Area: 40-ft.-radius emanation centered on a point in space"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 1 round/level"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: Will partial; see text"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: Yes"
+    },
+    {
+      "type": "paragraph",
+      "text": "With this spell, you create an invisible field that leeches away the power points of psionic characters standing within the emanation. Nonpsionic characters are unaffected."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the spell is cast and at the beginning of each of your subsequent turns, psionic creatures within the area of the psychic turmoil lose 1 power point per manifester level they have. Characters who succeed on a Will save when they first come into contact with the emanation lose only half as many power points (round down) each round. Characters get only one save attempt against any particular psychic turmoil effect, even if they leave the spell’s area and later return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Material Component: Five playing cards, which are torn in half when the spell is cast."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psychic Turmoil, Greater"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abjuration"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Cleric 7, sorcerer/wizard 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 1 round/level"
+    },
+    {
+      "type": "paragraph",
+      "text": "As psychic turmoil, except you gain 1 temporary hit point for each power point the spell takes from a psionic creature. The temporary hit points last for 1 hour."
+    },
+    {
+      "type": "paragraph",
+      "text": "Telepathic Bond, Lesser"
+    },
+    {
+      "type": "paragraph",
+      "text": "Divination [Mind-Affecting]"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level: Cleric 3, Mind 3, sorcerer/wizard 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Components: V, S"
+    },
+    {
+      "type": "paragraph",
+      "text": "Casting Time: 1 standard action"
+    },
+    {
+      "type": "paragraph",
+      "text": "Range: 30 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Targets: You and one willing creature within 30 ft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 10 min./level"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saving Throw: None"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spell Resistance: No"
+    },
+    {
+      "type": "paragraph",
+      "text": "You forge a telepathic bond with another creature with an Intelligence score of 6 or higher. The bond can be established only with a willing subject. You can communicate telepathically through the bond regardless of language. No special power or influence is established as a result of the bond. Once the bond is formed, it works over any distance (although not from one plane to another)."
+    }
+  ]
+}

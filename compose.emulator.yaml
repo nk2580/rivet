@@ -1,0 +1,38 @@
+services:
+  api:
+    environment:
+      RIVET_AUTH_MODE: emulator
+      FIREBASE_PROJECT_ID: demo-rivet
+      FIREBASE_AUTH_EMULATOR_HOST: firebase:9099
+      FIRESTORE_EMULATOR_HOST: firebase:8081
+      RIVET_PUBLIC_AUTH_EMULATOR_URL: http://localhost:9099
+      RIVET_PUBLIC_FIRESTORE_EMULATOR_HOST: localhost
+    depends_on:
+      firebase:
+        condition: service_healthy
+  firebase:
+    init: true
+    stop_signal: SIGINT
+    environment:
+      FIREBASE_EMULATORS_PATH: /emulator-cache
+    build:
+      context: .
+      target: emulators
+    ports:
+      - "127.0.0.1:${RIVET_AUTH_EMULATOR_PORT:-9099}:9099"
+      - "127.0.0.1:${RIVET_FIRESTORE_EMULATOR_PORT:-8081}:8081"
+      - "127.0.0.1:${RIVET_EMULATOR_UI_PORT:-4000}:4000"
+    volumes:
+      - firebase-emulator-data:/data
+      - firebase-emulator-binaries:/emulator-cache
+    healthcheck:
+      test: ["CMD", "node", "-e", "Promise.all([fetch('http://127.0.0.1:9099'),fetch('http://127.0.0.1:8081')]).then(()=>process.exit(0)).catch(()=>process.exit(1))"]
+      interval: 5s
+      timeout: 3s
+      retries: 60
+      start_period: 10s
+    stop_grace_period: 45s
+    restart: unless-stopped
+volumes:
+  firebase-emulator-data:
+  firebase-emulator-binaries:
